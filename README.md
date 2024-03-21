@@ -120,12 +120,19 @@ There are a lot of limitations of MirChecker that we would like to address in th
 
 ## Troubleshooting
 
-For macOS, you may encounter `dyld: Library not loaded` error, try setting:
+1. For macOS, you may encounter `dyld: Library not loaded` error, try setting:
 
-```sh
-$ export LD_LIBRARY_PATH=$(rustc --print sysroot)/lib:$LD_LIBRARY_PATH
-```
-
+   ```sh
+   $ export LD_LIBRARY_PATH=$(rustc --print sysroot)/lib:$LD_LIBRARY_PATH
+   ```
+2. You may encounter [`error: the 'cargo' binary, normally provided by the 'cargo' component, is not applicable to the 'nightly-2020-12-29-x86_64-unknown-linux-gnu' toolchain` error](https://github.com/rust-lang/rustup/issues/3025#issuecomment-1180026655), try
+   ```sh
+   $ rustup uninstall nightly-2020-12-29-x86_64-unknown-linux-gnu
+   ```
+   and then reinstall the toolchain
+   ```sh
+   $ rustup install nightly-2020-12-29-x86_64-unknown-linux-gnu
+   ```
 ## Credits
 
 Many ideas and code bases are from the following projects, many thanks!
