@@ -23,7 +23,7 @@ The associated paper titled *MirChecker: Detecting Bugs in Rust Programs via Sta
 
     ```sh
     # For Ubuntu:
-    $ sudo apt-get install libgmp-dev libmpfr-dev libppl-dev libz3-dev
+    $ sudo apt-get install libgmp-dev libmpfr-dev libppl-dev libz3-dev m4 libclang-dev
     
     # For macOS:
     $ brew install gmp mpfr ppl z3
