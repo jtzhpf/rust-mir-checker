@@ -40,6 +40,7 @@ safe_bugs_list = [
 ]
 
 unsafe_bugs_list = [
+    {"name": "double-free-and-use-after-free", "entry": "main"},
     {"name": "double-free", "entry": "main"},
     {"name": "offset", "entry": "main"},
     {"name": "use-after-free(CVE-2019-15551)", "entry": "main"},
