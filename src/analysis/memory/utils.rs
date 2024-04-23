@@ -13,7 +13,7 @@ use rustc_hir::definitions::DefPathData;
 use rustc_middle::ty;
 // use rustc_middle::ty::print::{FmtPrinter, Printer};
 use rustc_middle::ty::subst::{GenericArgKind, SubstsRef};
-use rustc_middle::ty::{DefIdTree, ProjectionTy, Ty, TyCtxt, TyKind};
+use rustc_middle::ty::{DefIdTree, ProjectionTy, Ty, TyCtxt, TyKind, IntTy, UintTy, FloatTy};
 use std::rc::Rc;
 
 /// Appends a string to str with the constraint that it must uniquely identify ty and also
@@ -21,35 +21,34 @@ use std::rc::Rc;
 /// generic trait methods).
 fn append_mangled_type<'tcx>(str: &mut String, ty: Ty<'tcx>, tcx: TyCtxt<'tcx>) {
     trace!("append_mangled_type {:?} to {}", ty.kind(), str);
-    use rustc_ast::ast;
     use TyKind::*;
     match ty.kind() {
         Bool => str.push_str("bool"),
         Char => str.push_str("char"),
         Int(int_ty) => {
             str.push_str(match int_ty {
-                ast::IntTy::Isize => "isize",
-                ast::IntTy::I8 => "i8",
-                ast::IntTy::I16 => "i16",
-                ast::IntTy::I32 => "i32",
-                ast::IntTy::I64 => "i64",
-                ast::IntTy::I128 => "i128",
+                IntTy::Isize => "isize",
+                IntTy::I8 => "i8",
+                IntTy::I16 => "i16",
+                IntTy::I32 => "i32",
+                IntTy::I64 => "i64",
+                IntTy::I128 => "i128",
             });
         }
         Uint(uint_ty) => {
             str.push_str(match uint_ty {
-                ast::UintTy::Usize => "usize",
-                ast::UintTy::U8 => "u8",
-                ast::UintTy::U16 => "u16",
-                ast::UintTy::U32 => "u32",
-                ast::UintTy::U64 => "u64",
-                ast::UintTy::U128 => "u128",
+                UintTy::Usize => "usize",
+                UintTy::U8 => "u8",
+                UintTy::U16 => "u16",
+                UintTy::U32 => "u32",
+                UintTy::U64 => "u64",
+                UintTy::U128 => "u128",
             });
         }
         Float(float_ty) => {
             str.push_str(match float_ty {
-                ast::FloatTy::F32 => "f32",
-                ast::FloatTy::F64 => "f64",
+                FloatTy::F32 => "f32",
+                FloatTy::F64 => "f64",
             });
         }
         Adt(def, subs) => {

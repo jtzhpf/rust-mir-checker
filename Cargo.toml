@@ -31,3 +31,7 @@ apron-sys = { path = "./apron-sys" }
 
 [profile.release]
 lto = true
+
+[package.metadata.rust-analyzer]
+# This package uses rustc crates.
+rustc_private=true
