@@ -64,6 +64,7 @@ def run_test(test_list, test_dir, allow_error, file):
             p.wait()
 
             my_env = os.environ.copy()
+            my_env["CARGO_TERM_COLOR"] = "always"
             # Disabling logging will save a lot of execution time!
             # my_env["RUST_LOG"] = "rust_mir_checker"
 
@@ -124,7 +125,7 @@ def exec_run_test_output(output_file):
 
 def filter_time_info(line):
     # 正则表达式模式，匹配时间信息
-    time_pattern = r'Checking\s\S+\sv\d+\.\d+\.\d+\s\((?:\/\S+)+\)|target\(s\)\sin\s\d+\.\d+s'
+    time_pattern = r'\s\S+\sv\d+\.\d+\.\d+\s\((?:\/\S+)+\)|target\(s\)\sin\s\d+\.\d+s'
     # 使用正则表达式替换时间信息为空字符串
     return re.sub(time_pattern, '', line)
 
