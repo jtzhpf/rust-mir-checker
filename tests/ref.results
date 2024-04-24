@@ -1,47 +1,47 @@
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.64s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.62s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.55s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.57s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/alloc-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.58s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.55s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.56s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.58s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.49s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.47s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking annotation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/annotation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.61s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
 error: possible dummy message
   --> src/main.rs:21:13
    |
@@ -53,14 +53,14 @@ error: aborting due to previous error
 error: could not compile `arith`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
     Finished dev [unoptimized + debuginfo] target(s) in 2.24s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
     Finished dev [unoptimized + debuginfo] target(s) in 0.63s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
 error: possible dummy message
   --> src/main.rs:21:13
    |
@@ -72,11 +72,11 @@ error: aborting due to previous error
 error: could not compile `arith`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
     Finished dev [unoptimized + debuginfo] target(s) in 0.76s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
 error: possible dummy message
   --> src/main.rs:21:13
    |
@@ -88,53 +88,53 @@ error: aborting due to previous error
 error: could not compile `arith`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking arith v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/arith)
     Finished dev [unoptimized + debuginfo] target(s) in 1.10s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.57s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.54s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.49s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.55s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking array v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/array)
     Finished dev [unoptimized + debuginfo] target(s) in 0.57s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.59s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.47s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.56s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking assignment v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/assignment)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
 error: possible dummy message
  --> src/main.rs:7:17
   |
@@ -176,14 +176,14 @@ error: aborting due to 6 previous errors
 error: could not compile `big-loop`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
     Finished dev [unoptimized + debuginfo] target(s) in 0.89s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
     Finished dev [unoptimized + debuginfo] target(s) in 0.78s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
 error: possible dummy message
  --> src/main.rs:7:17
   |
@@ -225,11 +225,11 @@ error: aborting due to 6 previous errors
 error: could not compile `big-loop`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
     Finished dev [unoptimized + debuginfo] target(s) in 0.77s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
 error: possible dummy message
  --> src/main.rs:7:17
   |
@@ -271,158 +271,158 @@ error: aborting due to 6 previous errors
 error: could not compile `big-loop`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking big-loop v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/big-loop)
     Finished dev [unoptimized + debuginfo] target(s) in 0.98s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.57s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.54s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.63s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.62s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.60s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.53s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/cast)
     Finished dev [unoptimized + debuginfo] target(s) in 0.63s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.54s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.54s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.44s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.46s
-    Checking crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+    Checking crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-bin-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.56s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.46s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.39s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.44s
-    Checking crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+    Checking crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/crate-lib-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.43s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.57s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.56s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.54s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.47s
-    Checking empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+    Checking empty v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/empty)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.70s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.73s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.77s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.79s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.90s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 1.07s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking enum-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/enum-test)
     Finished dev [unoptimized + debuginfo] target(s) in 1.24s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 1.03s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 2.41s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 1.33s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 1.21s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 1.46s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 1.82s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking function-call v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/function-call)
     Finished dev [unoptimized + debuginfo] target(s) in 1.70s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 1.40s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 1.88s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 1.54s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 2.07s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 1.74s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 1.88s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking index v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/index)
     Finished dev [unoptimized + debuginfo] target(s) in 1.79s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.77s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.97s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.70s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.47s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.29s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.26s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking iterator v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/iterator)
     Finished dev [unoptimized + debuginfo] target(s) in 1.35s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -442,8 +442,8 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `loop-test`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -455,8 +455,8 @@ warning: unused `#[macro_use]` import
 warning: 1 warning emitted
 
     Finished dev [unoptimized + debuginfo] target(s) in 0.98s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -468,8 +468,8 @@ warning: unused `#[macro_use]` import
 warning: 1 warning emitted
 
     Finished dev [unoptimized + debuginfo] target(s) in 0.99s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -489,8 +489,8 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `loop-test`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -502,8 +502,8 @@ warning: unused `#[macro_use]` import
 warning: 1 warning emitted
 
     Finished dev [unoptimized + debuginfo] target(s) in 0.86s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -523,8 +523,8 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `loop-test`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking loop-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/loop-test)
 warning: unused `#[macro_use]` import
  --> src/main.rs:1:1
   |
@@ -536,28 +536,28 @@ warning: unused `#[macro_use]` import
 warning: 1 warning emitted
 
     Finished dev [unoptimized + debuginfo] target(s) in 0.81s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.74s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.70s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.65s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.64s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.62s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.60s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking negation v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/negation)
     Finished dev [unoptimized + debuginfo] target(s) in 0.61s
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -569,7 +569,7 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -581,7 +581,7 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -593,7 +593,7 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -605,7 +605,7 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -617,7 +617,7 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -629,7 +629,7 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+    Checking recursion v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/recursion)
 error: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"
   --> src/main.rs:13:9
    |
@@ -641,71 +641,71 @@ error: aborting due to previous error
 error: could not compile `recursion`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.56s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking size-of v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/size-of)
     Finished dev [unoptimized + debuginfo] target(s) in 0.49s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking struct-test v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/struct-test)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.53s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.65s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking vector v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/vector)
     Finished dev [unoptimized + debuginfo] target(s) in 0.51s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
 error: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"
   --> src/main.rs:13:13
    |
@@ -729,14 +729,14 @@ error: aborting due to 3 previous errors
 error: could not compile `widen-narrow`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
     Finished dev [unoptimized + debuginfo] target(s) in 0.56s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
     Finished dev [unoptimized + debuginfo] target(s) in 0.69s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
 error: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"
   --> src/main.rs:13:13
    |
@@ -760,11 +760,11 @@ error: aborting due to 3 previous errors
 error: could not compile `widen-narrow`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
     Finished dev [unoptimized + debuginfo] target(s) in 0.64s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
 error: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"
   --> src/main.rs:13:13
    |
@@ -788,11 +788,11 @@ error: aborting due to 3 previous errors
 error: could not compile `widen-narrow`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/tests/unit-tests/widen-narrow)
     Finished dev [unoptimized + debuginfo] target(s) in 0.61s
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -804,8 +804,8 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -817,8 +817,8 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -830,8 +830,8 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -843,8 +843,8 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -856,8 +856,8 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -869,8 +869,8 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-    Checking division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
+    Checking macros v0.1.0 (/home/runner/work/rust-mir-checker/macros)
+    Checking division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/division-by-zero)
 error: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"
   --> src/main.rs:11:13
    |
@@ -882,7 +882,7 @@ error: aborting due to previous error
 error: could not compile `division-by-zero`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -902,7 +902,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -922,7 +922,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -942,7 +942,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -962,7 +962,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -982,7 +982,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -1002,7 +1002,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
+    Checking incorrect-boundary-check v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 warning: unused variable: `max_index`
  --> src/main.rs:5:9
   |
@@ -1022,7 +1022,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `incorrect-boundary-check`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1034,7 +1034,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1046,7 +1046,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1058,7 +1058,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1070,7 +1070,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1082,7 +1082,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1094,7 +1094,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
+    Checking incorrect-cast v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 error: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"
  --> src/main.rs:6:5
   |
@@ -1106,7 +1106,7 @@ error: aborting due to previous error
 error: could not compile `incorrect-cast`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Possible error: "attempt to compute `\"t\" + \"const 1_i32\"`, which would overflow"
  --> src/main.rs:8:9
   |
@@ -1136,7 +1136,7 @@ error: aborting due to 4 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"
   --> src/main.rs:14:9
    |
@@ -1154,7 +1154,7 @@ error: aborting due to 2 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"
   --> src/main.rs:14:9
    |
@@ -1172,7 +1172,7 @@ error: aborting due to 2 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Possible error: "attempt to compute `\"t\" + \"const 1_i32\"`, which would overflow"
  --> src/main.rs:8:9
   |
@@ -1202,7 +1202,7 @@ error: aborting due to 4 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"
   --> src/main.rs:14:9
    |
@@ -1220,7 +1220,7 @@ error: aborting due to 2 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Possible error: "attempt to compute `\"t\" + \"const 1_i32\"`, which would overflow"
  --> src/main.rs:8:9
   |
@@ -1250,7 +1250,7 @@ error: aborting due to 4 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
+    Checking integer-overflow v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/integer-overflow)
 error: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"
   --> src/main.rs:14:9
    |
@@ -1268,7 +1268,7 @@ error: aborting due to 2 previous errors
 error: could not compile `integer-overflow`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1300,7 +1300,7 @@ error: aborting due to 3 previous errors; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1320,7 +1320,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1346,7 +1346,7 @@ error: aborting due to 2 previous errors; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1378,7 +1378,7 @@ error: aborting due to 3 previous errors; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1398,7 +1398,7 @@ error: aborting due to previous error; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1430,7 +1430,7 @@ error: aborting due to 3 previous errors; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
+    Checking out-of-bound-index v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 warning: unused variable: `result`
  --> src/main.rs:8:9
   |
@@ -1456,7 +1456,7 @@ error: aborting due to 2 previous errors; 1 warning emitted
 error: could not compile `out-of-bound-index`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1468,7 +1468,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1480,7 +1480,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1492,7 +1492,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1504,7 +1504,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1516,7 +1516,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1528,7 +1528,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
+    Checking unreachable v0.1.0 (/home/runner/work/rust-mir-checker/tests/safe-bugs/unreachable)
 error: [MirChecker] Possible error: run into panic code
  --> src/main.rs:7:18
   |
@@ -1540,7 +1540,7 @@ error: aborting due to previous error
 error: could not compile `unreachable`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1572,7 +1572,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1604,7 +1604,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1636,7 +1636,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1668,7 +1668,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1700,7 +1700,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1732,7 +1732,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
+    Checking double-free-and-use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 warning: unused variable: `v`
   --> src/main.rs:28:9
    |
@@ -1764,7 +1764,7 @@ error: aborting due to 2 previous errors; 2 warnings emitted
 error: could not compile `double-free-and-use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1776,7 +1776,7 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1788,7 +1788,7 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1800,7 +1800,7 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1812,7 +1812,7 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1824,7 +1824,7 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1836,7 +1836,7 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
+    Checking double-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/double-free)
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:22:5
    |
@@ -1848,21 +1848,21 @@ error: aborting due to previous error
 error: could not compile `double-free`
 
 To learn more, run the command again with --verbose.
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.49s
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52s
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
-    Checking offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+    Checking offset v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/offset)
     Finished dev [unoptimized + debuginfo] target(s) in 0.50s
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1877,7 +1877,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1892,7 +1892,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1907,7 +1907,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1922,7 +1922,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1937,7 +1937,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1952,7 +1952,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
+    Checking deallocate v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 error: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"
  --> src/main.rs:3:55
   |
@@ -1967,7 +1967,7 @@ error: aborting due to previous error
 error: could not compile `deallocate`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
@@ -1979,7 +1979,7 @@ error: aborting due to previous error
 error: could not compile `use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
@@ -1991,7 +1991,7 @@ error: aborting due to previous error
 error: could not compile `use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
@@ -2003,7 +2003,7 @@ error: aborting due to previous error
 error: could not compile `use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
@@ -2015,7 +2015,7 @@ error: aborting due to previous error
 error: could not compile `use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
@@ -2027,7 +2027,7 @@ error: aborting due to previous error
 error: could not compile `use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
@@ -2039,7 +2039,7 @@ error: aborting due to previous error
 error: could not compile `use-after-free`
 
 To learn more, run the command again with --verbose.
-    Checking use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
+    Checking use-after-free v0.1.0 (/home/runner/work/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 error: [MirChecker] Possible error n visit return: double-free or use-after-free
   --> src/main.rs:12:48
    |
