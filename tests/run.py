@@ -74,6 +74,7 @@ def run_test(test_list, test_dir, allow_error, file):
                 p = subprocess.Popen([executable, "mir-checker", "--", "--domain", domain_type, "--entry", test["entry"], "--widening_delay", "5",
                                     "--narrowing_iteration", "5", "--deny_warnings"], cwd=os.path.join(test_dir, test["name"]), env=my_env,stderr=subprocess.PIPE)
                 _, stderr_output = p.communicate()
+                #print(stderr_output.decode("utf-8"))  # 输出标准输出到屏幕
                 with open(file, 'a') as f:
                     f.write(stderr_output.decode())  # Write stderr output to file
             else:
@@ -123,7 +124,7 @@ def exec_run_test_output(output_file):
 
 def filter_time_info(line):
     # 正则表达式模式，匹配时间信息
-    time_pattern = r'\d+\.\d+s'
+    time_pattern = r'Checking\s\S+\sv\d+\.\d+\.\d+\s\((?:\/\S+)+\)|target\(s\)\sin\s\d+\.\d+s'
     # 使用正则表达式替换时间信息为空字符串
     return re.sub(time_pattern, '', line)
 
@@ -143,16 +144,26 @@ def check(ref_file, test_file):
         if compare_files(ref_file, test_file):
             print("Files are identical (excluding time information).")
         else:
-            print("Files are different.")
+            print("Files are different.\n")
+            # 调用 diff 命令,并捕获输出
+            diff_process = subprocess.Popen(['diff', '--color=always', ref_file, test_file], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            output, error = diff_process.communicate()
+
+            # 输出结果
+            print(output.decode('utf-8'))
+            
             sys.exit(1)
         
     except Exception as e:
         print(e)
         sys.exit(1)  # This error code will cause a failure in CI service, so we know there are some problems
 
+def generate_ref_file(ref_file):
+    exec_run_test_output(ref_file)
+
 # main
 try:
-    print(sys.argv)
+    #print(sys.argv)
     if len(sys.argv) == 1 or (len(sys.argv) == 2 and sys.argv[1] == "run"):
         exec_run_test()
     elif len(sys.argv) == 2 and sys.argv[1] == "check":
@@ -161,6 +172,9 @@ try:
         exec_run_test_output(output_file)
         check(ref_file, output_file)
         #os.remove(output_file)
+    elif len(sys.argv) == 2 and sys.argv[1] == "gen":
+        ref_file = "ref.results"
+        generate_ref_file(ref_file)
     else:
         sys.exit(1)
 except Exception as e:
