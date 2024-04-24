@@ -310,7 +310,7 @@ where
             Ref(_, _, place) | AddressOf(_, place) | Len(place) | Discriminant(place) => {
                 Some(vec![place.local])
             }
-            BinaryOp(_, operand1, operand2) | CheckedBinaryOp(_, operand1, operand2) => {
+            BinaryOp(_, box(operand1, operand2)) | CheckedBinaryOp(_, box(operand1, operand2)) => {
                 let res1 = self.extract_local_from_operand(operand1);
                 let res2 = self.extract_local_from_operand(operand2);
                 match (res1, res2) {
@@ -1672,14 +1672,14 @@ where
                 );
                 self.visit_cast(path, *cast_kind, operand, ty);
             }
-            mir::Rvalue::BinaryOp(bin_op, left_operand, right_operand) => {
+            mir::Rvalue::BinaryOp(bin_op, box(left_operand, right_operand)) => {
                 debug!(
                     "Get RHS Rvalue: BinaryOp({:?}, {:?}, {:?})",
                     bin_op, left_operand, right_operand
                 );
                 self.visit_binary_op(path, *bin_op, left_operand, right_operand);
             }
-            mir::Rvalue::CheckedBinaryOp(bin_op, left_operand, right_operand) => {
+            mir::Rvalue::CheckedBinaryOp(bin_op, box(left_operand, right_operand)) => {
                 debug!(
                     "Get RHS Rvalue: CheckedBinaryOp({:?}, {:?}, {:?})",
                     bin_op, left_operand, right_operand
@@ -1753,6 +1753,7 @@ where
                 let mir::Constant {
                     user_ty, literal, ..
                 } = constant.borrow();
+                
                 let const_value = self.visit_constant(*user_ty, &literal);
                 self.body_visitor
                     .state
