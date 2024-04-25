@@ -6,7 +6,6 @@
 //
 // This source code is licensed under the MIT license found in the
 // LICENSE file in the root directory of this source tree.
-
 use crate::analysis::abstract_domain::AbstractDomain;
 use crate::analysis::diagnostics::DiagnosticCause;
 use crate::analysis::memory::constant_value::{ConstantValue, FunctionReference};
@@ -31,7 +30,8 @@ use rustc_hir::def_id::DefId;
 use rustc_middle::mir;
 use rustc_middle::mir::interpret::{ConstValue, Scalar};
 use rustc_middle::ty::subst::SubstsRef;
-use rustc_middle::ty::{Const, ParamConst, ScalarInt, Ty, TyKind, UserTypeAnnotationIndex};
+#[allow(unused_imports)]
+use rustc_middle::ty::{Const, ConstKind, ParamConst, ScalarInt, Ty, TyKind, UserTypeAnnotationIndex, Unevaluated};
 use std::borrow::Borrow;
 use std::convert::TryFrom;
 use std::convert::TryInto;
@@ -596,16 +596,33 @@ where
         }
     }
 
-    // TODO: implement promoted constant
-    fn visit_constant(
-        &mut self,
-        _user_ty: Option<UserTypeAnnotationIndex>, // TODO: Is this argument useful?
-        literal: &Const<'tcx>,
-    ) -> Rc<SymbolicValue> {
-        let mut val = literal.val;
-        let ty = literal.ty;
+    pub fn visit_literal(&mut self, literal: &mir::ConstantKind<'tcx>) -> Rc<SymbolicValue> {
+        if let Some(v) = literal.try_to_value() {
+            self.visit_const_kind(ConstKind::Value(v), literal.ty())
+        } else if let Some(c) = literal.const_for_ty() {
+            self.visit_const(c)
+        } else {
+            unreachable!("try_to_value will only return None when const_for_ty will return Some")
+        }
+    }
 
-        if let rustc_middle::ty::ConstKind::Unevaluated(def_ty, substs, promoted) = &literal.val {
+    pub fn visit_const(
+        &mut self, 
+        //_user_ty: Option<UserTypeAnnotationIndex>, 
+        literal: &Const<'tcx>
+    ) -> Rc<SymbolicValue> {
+        self.visit_const_kind(literal.val, literal.ty)
+    }
+
+
+    // TODO: implement promoted constant
+    fn visit_const_kind(&mut self, mut val: ConstKind<'tcx>, ty: Ty<'tcx>) -> Rc<SymbolicValue> {
+        if let rustc_middle::ty::ConstKind::Unevaluated(Unevaluated{
+            def: def_ty,
+            substs,
+            promoted,
+        }) = &val
+        {
             if def_ty.const_param_did.is_some() {
                 val = val.eval(
                     self.body_visitor.context.tcx,
@@ -671,7 +688,7 @@ where
                 rustc_middle::ty::ConstKind::Param(ParamConst { index, .. }) => {
                     if let Some(gen_args) = self.body_visitor.type_visitor.generic_arguments {
                         if let Some(arg_val) = gen_args.as_ref().get(*index as usize) {
-                            return self.visit_constant(None, arg_val.expect_const());
+                            return self.visit_const(arg_val.expect_const());
                         }
                     } else {
                         // todo: figure out why gen_args is None for generic types when
@@ -680,7 +697,7 @@ where
                     }
                     unreachable!(
                         "reference to unmatched generic constant argument {:?} {:?}",
-                        literal, self.body_visitor.current_span
+                        val, self.body_visitor.current_span
                     );
                 }
                 rustc_middle::ty::ConstKind::Value(ConstValue::Scalar(Scalar::Int(scalar_int))) => {
@@ -696,7 +713,7 @@ where
                 _ => {
                     unreachable!(
                         "unexpected kind of literal {:?} {:?}",
-                        literal, self.body_visitor.current_span
+                        ty, self.body_visitor.current_span
                     );
                 }
             },
@@ -726,14 +743,14 @@ where
                 {
                     return self.get_reference_to_slice(ty.kind(), data, *start, *end);
                 } else {
-                    debug!("unsupported val of type Ref: {:?}", literal);
+                    debug!("unsupported val of type Ref: {:?}", ty);
                     unimplemented!();
                 };
             }
             TyKind::Ref(_, t, _) if matches!(t.kind(), TyKind::Array(..)) => {
                 if let TyKind::Array(elem_type, length) = *t.kind() {
                     return self
-                        .visit_reference_to_array_constant(&val, literal.ty, elem_type, length);
+                        .visit_reference_to_array_constant(&val, ty, elem_type, length);
                 } else {
                     unreachable!(); // match guard
                 }
@@ -798,10 +815,10 @@ where
                 _ => unreachable!(),
             },
             TyKind::Ref(_, ty, rustc_hir::Mutability::Not) => {
-                return self.get_reference_to_constant(literal, ty);
+                return self.get_reference_to_constant(&val, ty);
             }
             TyKind::Adt(adt_def, _) if adt_def.is_enum() => {
-                return self.get_enum_variant_as_constant(literal, ty);
+                return self.get_enum_variant_as_constant(&val, ty);
             }
             TyKind::Tuple(..) | TyKind::Adt(..) => {
                 match val {
@@ -849,7 +866,7 @@ where
                     _ => {
                         debug!("span: {:?}", self.body_visitor.current_span);
                         debug!("type kind {:?}", ty.kind());
-                        debug!("unimplemented constant {:?}", literal);
+                        debug!("unimplemented constant {:?}", val);
                         result = ConstantValue::Top;
                     }
                 };
@@ -857,7 +874,7 @@ where
             _ => {
                 debug!("span: {:?}", self.body_visitor.current_span);
                 debug!("type kind {:?}", ty.kind());
-                debug!("unimplemented constant {:?}", literal);
+                debug!("unimplemented constant {:?}", val);
                 result = ConstantValue::Top;
             }
         };
@@ -1021,10 +1038,10 @@ where
 
     fn get_reference_to_constant(
         &mut self,
-        literal: &rustc_middle::ty::Const<'tcx>,
+        val: &ConstKind<'tcx>,
         ty: Ty<'tcx>,
     ) -> Rc<SymbolicValue> {
-        match &literal.val {
+        match &val {
             rustc_middle::ty::ConstKind::Value(ConstValue::Scalar(Scalar::Ptr(p))) => {
                 if let Some(rustc_middle::mir::interpret::GlobalAlloc::Static(def_id)) =
                     self.body_visitor.context.tcx.get_global_alloc(p.alloc_id)
@@ -1057,7 +1074,7 @@ where
             _ => {
                 debug!("span: {:?}", self.body_visitor.current_span);
                 debug!("type kind {:?}", ty.kind());
-                debug!("unimplemented constant {:?}", literal);
+                debug!("unimplemented constant {:?}", val);
                 unreachable!();
             }
         }
@@ -1065,11 +1082,11 @@ where
 
     fn get_enum_variant_as_constant(
         &mut self,
-        literal: &rustc_middle::ty::Const<'tcx>,
+        val: &ConstKind<'tcx>,
         ty: Ty<'tcx>,
     ) -> Rc<SymbolicValue> {
         let result;
-        match &literal.val {
+        match &val {
             rustc_middle::ty::ConstKind::Value(ConstValue::Scalar(Scalar::Int(scalar_int)))
                 if scalar_int.size().bytes() == 1 =>
             {
@@ -1090,7 +1107,7 @@ where
             _ => {
                 debug!("span: {:?}", self.body_visitor.current_span);
                 debug!("type kind {:?}", ty.kind());
-                debug!("unimplemented constant {:?}", literal);
+                debug!("unimplemented constant {:?}", val);
                 result = &ConstantValue::Top;
             }
         };
@@ -1110,7 +1127,7 @@ where
                 .get_rustc_place_type(place, self.body_visitor.current_span);
             match &ty.kind() {
                 TyKind::Array(_, len) => {
-                    let len_val = self.visit_constant(None, &len);
+                    let len_val = self.visit_const(&len);
                     let len_path = Path::new_length(base_path.clone()).refine_paths(&self.state());
                     self.body_visitor.state.update_value_at(len_path, len_val);
                 }
@@ -1475,7 +1492,7 @@ where
                 .get_rustc_place_type(place, self.body_visitor.current_span),
             mir::Operand::Constant(constant) => {
                 let mir::Constant { literal, .. } = constant.borrow();
-                literal.ty
+                literal.ty()
             }
         }
     }
@@ -1750,11 +1767,12 @@ where
                 self.visit_used_move(target_path, place);
             }
             mir::Operand::Constant(constant) => {
+                #[allow(unused_imports)]
                 let mir::Constant {
                     user_ty, literal, ..
                 } = constant.borrow();
                 
-                let const_value = self.visit_constant(*user_ty, &literal);
+                let const_value = self.visit_literal(literal);
                 self.body_visitor
                     .state
                     .update_value_at(target_path, const_value);
@@ -1950,7 +1968,7 @@ where
     // Repeat `operand` for `count` times
     fn visit_repeat(&mut self, path: Rc<Path>, operand: &mir::Operand<'tcx>, count: &Const<'tcx>) {
         let length_path = Path::new_length(path.clone());
-        let length_value = self.visit_constant(None, count);
+        let length_value = self.visit_const(count);
         self.body_visitor
             .state
             .update_value_at(length_path, length_value.clone());
@@ -1969,10 +1987,8 @@ where
                 self.visit_operand_place(place)
             }
             mir::Operand::Constant(constant) => {
-                let mir::Constant {
-                    user_ty, literal, ..
-                } = constant.borrow();
-                self.visit_constant(*user_ty, &literal)
+                let mir::Constant { literal, .. } = constant.borrow();
+                self.visit_literal(literal)
             }
         }
     }
@@ -2052,15 +2068,14 @@ where
                 self.visit_used_move(path, place);
             }
             mir::Operand::Constant(constant) => {
-                let mir::Constant {
-                    user_ty, literal, ..
-                } = constant.borrow();
-                let rh_type = literal.ty;
+                let mir::Constant { literal, .. } = constant.borrow();
+                let rh_type = literal.ty();
+                let const_value = self.visit_literal(literal);
                 debug!(
-                    "constant: {:?}, literal: {:?}, user_ty: {:?}, rh_type: {:?}",
-                    constant, literal, user_ty, rh_type
+                    "constant: {:?}, literal: {:?}, rh_type: {:?}, const_value: {:?}",
+                    constant, literal, rh_type, const_value
                 );
-                let const_value = self.visit_constant(*user_ty, &literal);
+
                 if const_value.expression.infer_type() == ExpressionType::NonPrimitive {
                     if let Expression::Reference(rpath) | Expression::Variable { path: rpath, .. } =
                         &const_value.expression
