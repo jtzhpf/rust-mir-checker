@@ -1,138 +1,187 @@
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.66s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.43s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:21:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 2.20s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.66s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:21:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:21:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.85s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:17[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(i < 1000000);[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"i\" + \"const 1_i32\"`, which would overflow"[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i += 1;[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:10:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m10[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(i >= 1000000);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:17[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m14[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(j > 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"_11\" - \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:15:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m15[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        j -= 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:17:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(j <= 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 6 previous errors[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.71s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.75s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.69s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.64s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.64s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.60s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.74s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.92s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.90s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.92s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:21:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 3.85s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.03s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:21:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.97s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:21:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m arith v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.36s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.76s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.79s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.75s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.73s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.75s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.73s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.73s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.69s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.75s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.69s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.66s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.67s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.66s
+[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
 [0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
@@ -178,10 +227,7 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.95s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.89s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.70s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
 [0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
@@ -227,471 +273,431 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.81s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.86s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:17[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(i < 1000000);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"i\" + \"const 1_i32\"`, which would overflow"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i += 1;[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:10:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m10[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(i >= 1000000);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:17[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m14[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(j > 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"_11\" - \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:15:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m15[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        j -= 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:17:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(j <= 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 6 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.91s
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.87s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.65s
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.63s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.43s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.43s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.43s
 [0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
 [0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.39s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.39s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.39s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.39s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.43s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.41s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.71s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/empty)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.78s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.76s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.80s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.80s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.80s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.82s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.81s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.86s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.63s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.95s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.83s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.80s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.79s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.77s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.87s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.67s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.69s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.66s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.63s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.77s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.70s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.90s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.76s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.81s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.11s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.84s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.08s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.04s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.06s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.93s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.02s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.15s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.03s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.10s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.06s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.10s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.05s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.06s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.04s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.98s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.98s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.95s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.95s
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.66s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.64s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.60s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.60s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/index)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.72s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.64s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.72s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
+
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
+
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
+
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
+
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
@@ -699,12 +705,6 @@ To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
@@ -731,35 +731,7 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i = i + 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _8\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:16:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        y = y + 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:19:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
@@ -790,7 +762,35 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i = i + 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _8\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:16:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        y = y + 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:19:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow`
+
+To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.64s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -1849,25 +1849,28 @@ To learn more, run the command again with --verbose.
 
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.65s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.92s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.06s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.00s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.99s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.85s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.40s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.73s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.42s
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
@@ -1876,10 +1879,13 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
@@ -1888,10 +1894,13 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
@@ -1900,10 +1909,13 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
@@ -1912,10 +1924,13 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
@@ -1924,10 +1939,13 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
@@ -1936,10 +1954,13 @@ To learn more, run the command again with --verbose.
 To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/home/runner/work/rust-mir-checker/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:3:55[0m
 [0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
+[0m[1m[38;5;12m3[0m[0m [0m[0m[1m[38;5;12m| [0m[0m  [0m[0munsafe fn deallocate<T>(ptr: *mut T, capacity: usize) {[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m [0m[0m[1m[38;5;9m_______________________________________________________^[0m
+[0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
+[0m[1m[38;5;12m5[0m[0m [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|[0m[0m [0m[0m}[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[38;5;9m|_^[0m
 
 [0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
 
