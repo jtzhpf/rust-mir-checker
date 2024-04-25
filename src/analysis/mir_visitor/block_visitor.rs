@@ -32,6 +32,7 @@ use rustc_middle::mir::interpret::{ConstValue, Scalar};
 use rustc_middle::ty::subst::SubstsRef;
 #[allow(unused_imports)]
 use rustc_middle::ty::{Const, ConstKind, ParamConst, ScalarInt, Ty, TyKind, UserTypeAnnotationIndex, Unevaluated};
+use rustc_mir::interpret::alloc_range;
 use std::borrow::Borrow;
 use std::convert::TryFrom;
 use std::convert::TryInto;
@@ -764,11 +765,10 @@ where
                         .get_bytes(
                             &self.body_visitor.context.tcx,
                             // invent a pointer, only the offset is relevant anyway
-                            mir::interpret::Pointer::new(
-                                mir::interpret::AllocId(0),
+                            alloc_range(
                                 rustc_target::abi::Size::from_bytes(*start as u64),
+                                rustc_target::abi::Size::from_bytes(slice_len as u64),
                             ),
-                            rustc_target::abi::Size::from_bytes(slice_len as u64),
                         )
                         .unwrap();
 
@@ -895,11 +895,10 @@ where
             .get_bytes(
                 &self.body_visitor.context.tcx,
                 // invent a pointer, only the offset is relevant anyway
-                mir::interpret::Pointer::new(
-                    mir::interpret::AllocId(0),
+                alloc_range(
                     rustc_target::abi::Size::from_bytes(start as u64),
+                    rustc_target::abi::Size::from_bytes(slice_len as u64),
                 ),
-                rustc_target::abi::Size::from_bytes(slice_len as u64),
             )
             .unwrap();
         let slice = &bytes[start..end];
@@ -940,11 +939,10 @@ where
                         .get_bytes(
                             &self.body_visitor.context.tcx,
                             // invent a pointer, only the offset is relevant anyway
-                            mir::interpret::Pointer::new(
-                                mir::interpret::AllocId(0),
+                            alloc_range(
                                 rustc_target::abi::Size::from_bytes(*start as u64),
+                                rustc_target::abi::Size::from_bytes(slice_len as u64),
                             ),
-                            rustc_target::abi::Size::from_bytes(slice_len as u64),
                         )
                         .unwrap();
                     let slice = &bytes[*start..*end];
@@ -976,8 +974,7 @@ where
                     let bytes = alloc
                         .get_bytes(
                             &self.body_visitor.context.tcx,
-                            *ptr,
-                            rustc_target::abi::Size::from_bytes(num_bytes),
+                            alloc_range(ptr.offset, rustc_target::abi::Size::from_bytes(num_bytes)),
                         )
                         .unwrap();
                     self.deconstruct_reference_to_constant_array(&bytes, e_type, Some(len), ty)
