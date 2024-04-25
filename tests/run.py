@@ -173,6 +173,11 @@ try:
         exec_run_test_output(output_file)
         check(ref_file, output_file)
         #os.remove(output_file)
+    elif len(sys.argv) == 2 and sys.argv[1] == "purecheck":
+        output_file = "test.results"
+        ref_file = "ref.results"
+        check(ref_file, output_file)
+        #os.remove(output_file)
     elif len(sys.argv) == 2 and sys.argv[1] == "gen":
         ref_file = "ref.results"
         generate_ref_file(ref_file)
