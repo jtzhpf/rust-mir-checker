@@ -32,7 +32,7 @@ use rustc_middle::mir::interpret::{ConstValue, Scalar};
 use rustc_middle::ty::subst::SubstsRef;
 #[allow(unused_imports)]
 use rustc_middle::ty::{Const, ConstKind, ParamConst, ScalarInt, Ty, TyKind, UserTypeAnnotationIndex, Unevaluated};
-use rustc_mir::interpret::alloc_range;
+use rustc_const_eval::interpret::alloc_range;
 use std::borrow::Borrow;
 use std::convert::TryFrom;
 use std::convert::TryInto;
@@ -618,28 +618,18 @@ where
 
     // TODO: implement promoted constant
     fn visit_const_kind(&mut self, mut val: ConstKind<'tcx>, ty: Ty<'tcx>) -> Rc<SymbolicValue> {
-        if let rustc_middle::ty::ConstKind::Unevaluated(Unevaluated{
-            def: def_ty,
-            substs,
-            promoted,
-        }) = &val
-        {
+        if let rustc_middle::ty::ConstKind::Unevaluated(unevaluated) = &val {
+            let substs = unevaluated.substs(self.body_visitor.context.tcx);
+            let def_ty = unevaluated.def;
             if def_ty.const_param_did.is_some() {
-                val = val.eval(
-                    self.body_visitor.context.tcx,
-                    self.body_visitor.type_visitor.get_param_env(),
-                );
+                val = val.eval(self.body_visitor.context.tcx, self.body_visitor.type_visitor.get_param_env());
             } else {
-                let def_id = def_ty.def_id_for_type_of();
-                let substs = self.body_visitor.type_visitor.specialize_substs(
-                    substs,
-                    &self.body_visitor.type_visitor.generic_argument_map,
-                );
-                self.body_visitor
-                    .crate_context
-                    .substs_cache
-                    .insert(def_id, substs);
-                let path: Rc<Path> = match promoted {
+                let mut def_id = def_ty.def_id_for_type_of();
+                let substs = self.body_visitor
+                    .type_visitor
+                    .specialize_substs(substs, &self.body_visitor.type_visitor.generic_argument_map);
+                self.body_visitor.crate_context.substs_cache.insert(def_id, substs);
+                let path: Rc<Path> = match unevaluated.promoted {
                     Some(promoted) => {
                         let index = promoted.index();
                         Rc::new(PathEnum::PromotedConstant { ordinal: index }.into())
@@ -1721,6 +1711,9 @@ where
                 );
                 self.visit_aggregate(path, aggregate_kinds, operands);
             }
+            mir::Rvalue::ShallowInitBox(operand, ty) => {
+                self.visit_shallow_init_box(path, operand, *ty);
+            }
             mir::Rvalue::ThreadLocalRef(def_id) => {
                 self.visit_thread_local_ref(*def_id);
             }
@@ -1753,6 +1746,20 @@ where
             let index_path = Path::new_index(path.clone(), index_value).refine_paths(&self.state());
             self.visit_used_operand(index_path, operand);
         }
+    }
+
+    /// Transmutes a `*mut u8` into shallow-initialized `Box<T>`.
+    ///
+    /// This is different from a normal transmute because dataflow analysis will treat the box
+    /// as initialized but its content as uninitialized.
+    fn visit_shallow_init_box(
+        &mut self,
+        path: Rc<Path>,
+        operand: &mir::Operand<'tcx>,
+        ty: Ty<'tcx>,
+    ) {
+        let value_path = Path::new_field(Path::new_field(path, 0), 0);
+        self.visit_used_operand(value_path, operand);
     }
 
     fn visit_used_operand(&mut self, target_path: Rc<Path>, operand: &mir::Operand<'tcx>) {
@@ -1794,6 +1801,7 @@ where
             };
         let alignment = Rc::new(1u128.into());
         let value = match null_op {
+            mir::NullOp::AlignOf => alignment,
             mir::NullOp::Box => {
                 path = Path::new_field(Path::new_field(path, 0), 0);
                 self.body_visitor.get_new_heap_block(len, alignment, ty)
