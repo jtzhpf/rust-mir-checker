@@ -618,38 +618,28 @@ where
 
     // TODO: implement promoted constant
     fn visit_const_kind(&mut self, mut val: ConstKind<'tcx>, ty: Ty<'tcx>) -> Rc<SymbolicValue> {
-        if let rustc_middle::ty::ConstKind::Unevaluated(Unevaluated{
-            def: def_ty,
-            substs,
-            promoted,
-        }) = &val
-        {
+        if let rustc_middle::ty::ConstKind::Unevaluated(unevaluated) = &val {
+            let substs = unevaluated.substs(self.body_visitor.context.tcx);
+            let def_ty = unevaluated.def;
             if def_ty.const_param_did.is_some() {
-                val = val.eval(
-                    self.body_visitor.context.tcx,
-                    self.body_visitor.type_visitor.get_param_env(),
-                );
+                val = val.eval(self.body_visitor.context.tcx, self.body_visitor.type_visitor.get_param_env());
             } else {
-                let def_id = def_ty.def_id_for_type_of();
-                let substs = self.body_visitor.type_visitor.specialize_substs(
-                    substs,
-                    &self.body_visitor.type_visitor.generic_argument_map,
-                );
-                self.body_visitor
-                    .crate_context
-                    .substs_cache
-                    .insert(def_id, substs);
-                let path: Rc<Path> = match promoted {
-                    Some(promoted) => {
-                        let index = promoted.index();
-                        Rc::new(PathEnum::PromotedConstant { ordinal: index }.into())
-                    }
-                    None => {
-                        debug!("STATIC!");
-                        self.body_visitor
-                            .import_static(Path::new_static(self.body_visitor.context.tcx, def_id))
-                    } // None => unreachable!("static is not supported yet"),
-                };
+                let mut def_id = def_ty.def_id_for_type_of();
+                let substs = self.body_visitor
+                    .type_visitor
+                    .specialize_substs(substs, &self.body_visitor.type_visitor.generic_argument_map);
+                self.body_visitor.crate_context.substs_cache.insert(def_id, substs);
+                let path: Rc<Path> = match unevaluated.promoted {
+                Some(promoted) => {
+                    let index = promoted.index();
+                    Rc::new(PathEnum::PromotedConstant { ordinal: index }.into())
+                }
+                None => {
+                    debug!("STATIC!");
+                    self.body_visitor
+                        .import_static(Path::new_static(self.body_visitor.context.tcx, def_id))
+                } // None => unreachable!("static is not supported yet"),
+            };
                 self.body_visitor
                     .type_visitor
                     .path_ty_cache
