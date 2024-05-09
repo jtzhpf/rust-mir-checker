@@ -39,3 +39,7 @@ jobs:
         cd tests 
         export LD_LIBRARY_PATH=$(rustc --print sysroot)/lib:$LD_LIBRARY_PATH
         python3 run.py check
+
+    - name: Print check res
+      run: |
+        cat test.results

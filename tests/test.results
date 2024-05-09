@@ -1,12 +1,9 @@
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.89s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.73s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
@@ -15,19 +12,16 @@
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Checking[0m alloc-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/alloc-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
@@ -37,6 +31,12 @@
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m annotation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/annotation)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
@@ -48,14 +48,10 @@
 [0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 2.25s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 5.64s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
@@ -67,14 +63,10 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
 [0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
@@ -83,29 +75,10 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(f >= 0 && f <= 1);[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `arith` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m arith v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/arith)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.87s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.82s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
@@ -113,11 +86,23 @@ To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m array v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/array)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
@@ -129,7 +114,10 @@ To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.43s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m assignment v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/assignment)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
@@ -171,60 +159,10 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(j <= 0);[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 6 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop` due to 6 previous errors
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.72s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:17[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(i < 1000000);[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"i\" + \"const 1_i32\"`, which would overflow"[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i += 1;[0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:10:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m10[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(i >= 1000000);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:17[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m14[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(j > 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"_11\" - \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:15:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m15[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        j -= 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:17:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(j <= 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 6 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.71s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
@@ -266,20 +204,52 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(j <= 0);[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 6 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop` due to 6 previous errors
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.69s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:17[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(i < 1000000);[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"i\" + \"const 1_i32\"`, which would overflow"[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i += 1;[0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:10:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m10[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(i >= 1000000);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:17[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m14[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        verify!(j > 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"_11\" - \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:15:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m15[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        j -= 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:17:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(j <= 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `big-loop` due to 6 previous errors
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m big-loop v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/big-loop)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.77s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
@@ -294,476 +264,424 @@ To learn more, run the command again with --verbose.
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/cast)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
 [0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/home/parallels/.rustup/toolchains/nightly-2021-08-25-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt/mod.rs:345:12[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m345[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        if pieces.len() < args.len() || pieces.len() > args.len() + 1 {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m           [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `crate-bin-test` due to previous error
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.34s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.34s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.33s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
+[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.39s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
-[0m[0m[1m[32m    Checking[0m crate-bin-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-bin-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.41s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
+[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m crate-lib-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/crate-lib-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.34s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.34s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
-[0m[0m[1m[32m    Checking[0m empty v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/empty)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.35s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.14s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m enum-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/enum-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 1.07s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.58s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Checking[0m function-call v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/function-call)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.61s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
-[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
-[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
-[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
-[0m  [0m[0m[1m[38;5;12m|[0m
-[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
-
-[0m[1m[33mwarning[0m[0m[1m: 1 warning emitted[0m
-
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.44s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.46s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i = i + 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _8\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:16:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        y = y + 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:19:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow`
-
-To learn more, run the command again with --verbose.
-[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/index)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.78s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.71s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.63s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m iterator v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/iterator)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.63s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test` due to previous error; 1 warning emitted
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
 [0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i = i + 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _8\" + \"const 1_i32\"`, which would overflow"[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:16:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        y = y + 1;[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:19:13[0m
-[0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
-
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
-[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"(*_2)\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:24:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        *r += 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `loop-test` due to previous error; 1 warning emitted
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m loop-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/loop-test)
+[0m[1m[33mwarning[0m[0m[1m: unused `#[macro_use]` import[0m
+[0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:1:1[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m1[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#[macro_use][0m
+[0m  [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^[0m
+[0m  [0m[0m[1m[38;5;12m|[0m
+[0m  [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `loop-test` (bin "loop-test") generated 1 warning
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m negation v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/negation)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m recursion v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/recursion)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _3\" * \"move _4\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        n * factorial(n - 1)[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `recursion` due to previous error
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.53s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.52s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.62s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.76s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m size-of v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/size-of)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.78s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.64s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.47s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m struct-test v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/struct-test)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.54s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.59s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.67s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.56s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.48s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.51s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m vector v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/vector)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.50s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
@@ -783,14 +701,61 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow` due to 3 previous errors
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.55s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.68s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.77s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i = i + 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _8\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:16:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        y = y + 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:19:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow` due to 3 previous errors
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.57s
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _6\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:13:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m13[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        i = i + 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"move _8\" + \"const 1_i32\"`, which would overflow"[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:16:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        y = y + 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: possible dummy message[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:19:13[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m19[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    verify!(y > 0);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
+
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `widen-narrow` due to 3 previous errors
+[0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
+[0m[0m[1m[32m    Checking[0m widen-narrow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unit-tests/widen-narrow)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.69s
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -799,11 +764,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -812,11 +773,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -825,11 +782,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -838,11 +791,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -851,11 +800,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -864,11 +809,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m macros v0.1.0 (/media/psf/SSD/rust-mir-checker/macros)
 [0m[0m[1m[32m    Checking[0m division-by-zero v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/division-by-zero)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to divide `\"_7\"` by zero"[0m
@@ -877,11 +818,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m11[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let b = a / n; // Error: division by zero![0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m            [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `division-by-zero` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -897,11 +834,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -917,11 +851,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -937,11 +868,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -957,11 +885,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -977,11 +902,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -997,11 +919,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-boundary-check v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-boundary-check)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `max_index`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:5:9[0m
@@ -1017,11 +936,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m9[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    buf[insert_at_index] = 100;[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `incorrect-boundary-check` (bin "incorrect-boundary-check") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-boundary-check` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1029,11 +945,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1041,11 +953,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1053,11 +961,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1065,11 +969,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1077,11 +977,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1089,11 +985,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m incorrect-cast v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/incorrect-cast)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _2\" * \"const 1000000_u32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:6:5[0m
@@ -1101,11 +993,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m6[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    (time % 1000) as u32 * 1000000[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `incorrect-cast` due to previous error
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"t\" + \"const 1_i32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1131,11 +1019,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    c = c - t; // OK[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 4 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 4 previous errors
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:9[0m
@@ -1149,11 +1033,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m18[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    b = b + t; // Error: integer overflow[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 2 previous errors
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:9[0m
@@ -1167,11 +1047,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m18[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    b = b + t; // Error: integer overflow[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 2 previous errors
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"t\" + \"const 1_i32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1197,11 +1073,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    c = c - t; // OK[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 4 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 4 previous errors
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:9[0m
@@ -1215,11 +1087,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m18[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    b = b + t; // Error: integer overflow[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 2 previous errors
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: "attempt to compute `\"t\" + \"const 1_i32\"`, which would overflow"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1245,11 +1113,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m21[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    c = c - t; // OK[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 4 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 4 previous errors
 [0m[0m[1m[32m    Checking[0m integer-overflow v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/integer-overflow)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Provably error: "attempt to compute `\"move _6\" - \"move _7\"`, which would overflow"[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:14:9[0m
@@ -1263,11 +1127,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m18[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    b = b + t; // Error: integer overflow[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[38;5;9m^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `integer-overflow` due to 2 previous errors
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1295,11 +1155,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to 3 previous errors; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1315,11 +1172,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1341,11 +1195,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to 2 previous errors; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1373,11 +1224,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to 3 previous errors; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1393,11 +1241,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to previous error; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1425,11 +1270,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 3 previous errors; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to 3 previous errors; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m out-of-bound-index v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/out-of-bound-index)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `result`[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:8:9[0m
@@ -1451,11 +1293,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m8[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let result = a[i];[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 1 warning emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `out-of-bound-index` (bin "out-of-bound-index") generated 1 warning
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `out-of-bound-index` due to 2 previous errors; 1 warning emitted
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1463,11 +1302,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1475,11 +1310,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1487,11 +1318,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1499,11 +1326,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1511,11 +1334,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1523,11 +1342,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m unreachable v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/safe-bugs/unreachable)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error: run into panic code[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:7:18[0m
@@ -1535,11 +1350,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m7[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        1..=96 | 123..=191 => {[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `unreachable` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1567,11 +1378,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1599,11 +1407,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1631,11 +1436,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1663,11 +1465,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1695,11 +1494,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1727,11 +1523,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free-and-use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free-and-use-after-free)
 [0m[1m[33mwarning[0m[0m[1m: unused variable: `v`[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:28:9[0m
@@ -1759,11 +1552,8 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    std::mem::forget(s); // do not drop s[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                     [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors; 2 warnings emitted[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[33mwarning[0m[1m:[0m `double-free-and-use-after-free` (bin "double-free-and-use-after-free") generated 2 warnings
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free-and-use-after-free` due to 2 previous errors; 2 warnings emitted
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1771,11 +1561,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1783,11 +1569,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1795,11 +1577,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1807,11 +1585,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1819,11 +1593,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1831,11 +1601,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m double-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/double-free)
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:22:5[0m
@@ -1843,25 +1609,21 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    Foo { s: s }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^^^^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `double-free` due to previous error
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
+[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.49s
+[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.39s
+[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.38s
+[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.45s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
 [0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
 [0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.36s
-[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
-[0m[0m[1m[32m    Checking[0m offset v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/offset)
-[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.37s
+[0m[0m[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.42s
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1869,11 +1631,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1881,11 +1639,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1893,11 +1647,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1905,11 +1655,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1917,11 +1663,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1929,11 +1671,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m deallocate v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-15551))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error in visit drop: double-free or use-after-free for "move _3"[0m
 [0m [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:4:52[0m
@@ -1941,11 +1679,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m4[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    let _vec: Vec<T> = Vec::from_raw_parts(ptr, 0, capacity);[0m
 [0m  [0m[0m[1m[38;5;12m| [0m[0m                                                   [0m[0m[1m[38;5;9m^^^^^^^^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `deallocate` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -1953,11 +1687,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -1965,11 +1695,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -1977,11 +1703,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -1989,11 +1711,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -2001,11 +1719,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -2013,11 +1727,7 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
 [0m[0m[1m[32m    Checking[0m use-after-free v0.1.0 (/media/psf/SSD/rust-mir-checker/tests/unsafe-bugs/use-after-free(CVE-2019-16140))
 [0m[1m[38;5;9merror[0m[0m[1m: [MirChecker] Possible error n visit return: double-free or use-after-free[0m
 [0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/main.rs:12:48[0m
@@ -2025,8 +1735,4 @@ To learn more, run the command again with --verbose.
 [0m[1m[38;5;12m12[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    unsafe { Vec::from_raw_parts(ptr, s.len(), s.len()) }[0m
 [0m   [0m[0m[1m[38;5;12m| [0m[0m                                               [0m[0m[1m[38;5;9m^[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to previous error[0m
-
-[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free`
-
-To learn more, run the command again with --verbose.
+[0m[0m[1m[31merror[0m[1m:[0m could not compile `use-after-free` due to previous error
