@@ -1745,6 +1745,20 @@ where
         }
     }
 
+    /// Transmutes a `*mut u8` into shallow-initialized `Box<T>`.
+    ///
+    /// This is different from a normal transmute because dataflow analysis will treat the box
+    /// as initialized but its content as uninitialized.
+    fn visit_shallow_init_box(
+        &mut self,
+        path: Rc<Path>,
+        operand: &mir::Operand<'tcx>,
+        ty: Ty<'tcx>,
+    ) {
+        let value_path = Path::new_field(Path::new_field(path, 0), 0);
+        self.visit_used_operand(value_path, operand);
+    }
+
     fn visit_used_operand(&mut self, target_path: Rc<Path>, operand: &mir::Operand<'tcx>) {
         match operand {
             mir::Operand::Copy(place) => {
@@ -1784,6 +1798,7 @@ where
             };
         let alignment = Rc::new(1u128.into());
         let value = match null_op {
+            mir::NullOp::AlignOf => alignment,
             mir::NullOp::Box => {
                 path = Path::new_field(Path::new_field(path, 0), 0);
                 self.body_visitor.get_new_heap_block(len, alignment, ty)
