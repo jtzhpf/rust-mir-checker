@@ -32,7 +32,7 @@ use rustc_middle::mir::interpret::{ConstValue, Scalar};
 use rustc_middle::ty::subst::SubstsRef;
 #[allow(unused_imports)]
 use rustc_middle::ty::{Const, ConstKind, ParamConst, ScalarInt, Ty, TyKind, UserTypeAnnotationIndex, Unevaluated};
-use rustc_mir::interpret::alloc_range;
+use rustc_const_eval::interpret::alloc_range;
 use std::borrow::Borrow;
 use std::convert::TryFrom;
 use std::convert::TryInto;
@@ -624,7 +624,7 @@ where
             if def_ty.const_param_did.is_some() {
                 val = val.eval(self.body_visitor.context.tcx, self.body_visitor.type_visitor.get_param_env());
             } else {
-                let mut def_id = def_ty.def_id_for_type_of();
+                let def_id = def_ty.def_id_for_type_of();
                 let substs = self.body_visitor
                     .type_visitor
                     .specialize_substs(substs, &self.body_visitor.type_visitor.generic_argument_map);

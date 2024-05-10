@@ -148,6 +148,15 @@ def check(ref_file, test_file):
             print("Files are different.\n")
             # 调用 diff 命令,并捕获输出
             diff_process = subprocess.Popen(['diff', '--color=always', ref_file, test_file], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+            #diff_command = [
+            #    'diff', '--color=always', 
+            #    '<(grep -v \[unoptimized + debuginfo\] target(s) in [0-9.]*s\' {0})'.format(ref_file), 
+            #    '<(grep -v \[unoptimized + debuginfo\] target(s) in [0-9.]*s\' {0})'.format(test_file)
+            #]
+
+            # 调用 diff 命令
+            #diff_process = subprocess.Popen(diff_command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             output, error = diff_process.communicate()
 
             # 输出结果
