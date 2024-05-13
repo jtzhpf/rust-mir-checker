@@ -333,6 +333,9 @@ where
                 }
                 Some(res)
             }
+            ShallowInitBox(operand,_) => {
+                self.extract_local_from_operand(operand)
+            }
             _ => None,
         }
     }
@@ -1714,6 +1717,9 @@ where
             mir::Rvalue::ThreadLocalRef(def_id) => {
                 self.visit_thread_local_ref(*def_id);
             }
+            mir::Rvalue::ShallowInitBox(operand, ty)=>{
+                self.visit_shallow_init_box(path,operand,ty);
+            }
         }
     }
 
@@ -1753,7 +1759,7 @@ where
         &mut self,
         path: Rc<Path>,
         operand: &mir::Operand<'tcx>,
-        ty: Ty<'tcx>,
+        _ty: Ty<'tcx>,
     ) {
         let value_path = Path::new_field(Path::new_field(path, 0), 0);
         self.visit_used_operand(value_path, operand);
@@ -1768,15 +1774,9 @@ where
                 self.visit_used_move(target_path, place);
             }
             mir::Operand::Constant(constant) => {
-                #[allow(unused_imports)]
-                let mir::Constant {
-                    user_ty, literal, ..
-                } = constant.borrow();
-                
+                let mir::Constant { literal, .. } = constant.borrow();
                 let const_value = self.visit_literal(literal);
-                self.body_visitor
-                    .state
-                    .update_value_at(target_path, const_value);
+                self.body_visitor.state.update_value_at(target_path, const_value);
             }
         };
     }

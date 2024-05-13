@@ -14,7 +14,7 @@ use rustc_hir::def_id::DefId;
 use rustc_middle::mir;
 use rustc_middle::ty::subst::{GenericArg, GenericArgKind, InternalSubsts, SubstsRef};
 use rustc_middle::ty::{
-    AdtDef, Binder, ExistentialPredicate, ExistentialProjection, ExistentialTraitRef, FnSig,
+    AdtDef, ExistentialPredicate, ExistentialProjection, ExistentialTraitRef, FnSig,
     ParamTy, Ty, TyCtxt, TyKind, TypeAndMut,
 };
 use std::collections::HashMap;
