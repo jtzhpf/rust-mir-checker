@@ -65,8 +65,11 @@ def run_test(test_list, test_dir, allow_error, file):
 
             my_env = os.environ.copy()
             my_env["CARGO_TERM_COLOR"] = "always"
+            #my_env["RUST_BACKTRACE"] = "full"
             # Disabling logging will save a lot of execution time!
             # my_env["RUST_LOG"] = "rust_mir_checker"
+            # my_env["RUST_LOG"] = "debug"
+            # my_env["RUST_LOG"] = "debug"
 
             # Customized options
             

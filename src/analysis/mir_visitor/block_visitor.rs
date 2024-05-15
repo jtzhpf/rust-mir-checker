@@ -333,9 +333,6 @@ where
                 }
                 Some(res)
             }
-            ShallowInitBox(operand,_) => {
-                self.extract_local_from_operand(operand)
-            }
             _ => None,
         }
     }
@@ -1717,9 +1714,10 @@ where
             mir::Rvalue::ThreadLocalRef(def_id) => {
                 self.visit_thread_local_ref(*def_id);
             }
-            mir::Rvalue::ShallowInitBox(operand, ty)=>{
-                self.visit_shallow_init_box(path,operand,ty);
+            /*
+            mir::Rvalue::ShallowInitBox(_, _) => {
             }
+            */
         }
     }
 
@@ -1755,6 +1753,8 @@ where
     ///
     /// This is different from a normal transmute because dataflow analysis will treat the box
     /// as initialized but its content as uninitialized.
+    /// 
+    /*
     fn visit_shallow_init_box(
         &mut self,
         path: Rc<Path>,
@@ -1763,7 +1763,8 @@ where
     ) {
         let value_path = Path::new_field(Path::new_field(path, 0), 0);
         self.visit_used_operand(value_path, operand);
-    }
+    } 
+    */
 
     fn visit_used_operand(&mut self, target_path: Rc<Path>, operand: &mir::Operand<'tcx>) {
         match operand {

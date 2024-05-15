@@ -1,0 +1,21 @@
+// .vscode/launch.json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Launch",
+            "args": ["mir-checker","--","--domain","interval","--entry main","--widening_delay","5","--narrowing_iteration","5","--deny_warnings"], // array of string command-line arguments to pass to compiler
+            "program": "${workspaceFolder}/target/debug/cargo-mir-checker",
+            "cwd": "${workspaceFolder}/tests/unit-tests/alloc-test", // current working directory at program start
+            "stopOnEntry": false,
+            "sourceLanguages": [
+                "rust"
+            ],
+            "env": {
+                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/nightly-2021-09-5-x86_64-unknown-linux-gnu/lib:$LD_LIBRARY_PATH",
+             },
+        }
+    ]
+}

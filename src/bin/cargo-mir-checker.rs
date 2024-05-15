@@ -3,6 +3,7 @@
 use rust_mir_checker::utils;
 use serde_json;
 use std::ffi::OsString;
+use std::os::unix::process::CommandExt;
 use std::path::Path;
 use std::process::Command;
 

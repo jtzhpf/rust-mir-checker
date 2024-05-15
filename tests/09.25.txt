@@ -1,0 +1,359 @@
+    Checking macros v0.1.0 (/home/rust-mir-checker/macros)
+    Checking alloc-test v0.1.0 (/home/rust-mir-checker/tests/unit-tests/alloc-test)
+ INFO  mir_checker > Analysis Option: AnalysisOption { entry_point: "main", entry_def_id_index: None, domain_type: Interval, widening_delay: 5, cleaning_delay: 5, narrowing_iteration: 5, show_entries: false, show_entries_index: false, deny_warnings: true, memory_safety_only: false, suppressed_warnings: None }
+ INFO  rust_mir_checker::analysis::callback > Source file: src/main.rs
+ INFO  rust_mir_checker::analysis::global_context > Initializing GlobalContext
+ DEBUG rust_mir_checker::analysis::global_context > Entry Point: "main", DefId: DefId(0:8 ~ alloc_test[21e2]::main)
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > ================== Numerical Analysis Starts ==================
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > Abstract Domain Type: Interval
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > Widening Delay: 5
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > Start Analyzing Entry Point Function: main
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > ================== Fixed-Point Algorithm Starts To Analyze: main ==================
+ DEBUG rust_mir_checker::analysis::wto                          > WTO Nesting: {bb2: [],bb3: [],bb1: [],bb0: [],bb4: []}
+ DEBUG rust_mir_checker::analysis::global_context               > Compute the new w.t.o for main: bb0 bb1 bb2 bb3 bb4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Start initializing promoted constants
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Before join, init: numerical: ⊤, symbolic: {}, environment: numerical: ⊤, symbolic: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > After meet, environment: numerical: ⊤, symbolic: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Finish initializing promoted constants, init_state: numerical: ⊤, symbolic: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Analyzing basic block: bb0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Pre-Condition for bb0: numerical: ⊤, symbolic: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign((_4, Box([i32; 5]))) statement: _4 = Box([i32; 5])
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: NullaryOp(Box, [i32; 5])
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.0.0, value: heap_0
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is not numerical, store in symbolic domain
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: ⊤
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_4.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign(((*_4), [const 1_i32, const 2_i32, const 3_i32, const 4_i32, const 5_i32])) statement: (*_4) = [const 1_i32, const 2_i32, const 3_i32, const 4_i32, const 5_i32]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_4.deref
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: Aggregate(Array(i32), [const 1_i32, const 2_i32, const 3_i32, const 4_i32, const 5_i32])
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.1, value: 5
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.[0], value: 1
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.[1], value: 2
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.[2], value: 3
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.[3], value: 4
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_4.[4], value: 5
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_4.1=5; local_4.[0]=1; local_4.[1]=2; local_4.[2]=3; local_4.[3]=4; local_4.[4]=5}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_4.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign((_3, move _4)) statement: _3 = move _4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_3
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: Use(move _4)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get move RPath=local_4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In copy or move elements, target_path=local_3, source_path=local_4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_4, result type: std::boxed::Box<[i32; 5]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: TOP
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > result: None
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: local_4: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > After lookup_path_and_refine_result: local_4: NonPrimitive, value type: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.1 to local_3.1
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.1 to local_3.1
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.[0] to local_3.[0]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.[0] to local_3.[0]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.[1] to local_3.[1]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.[1] to local_3.[1]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.[2] to local_3.[2]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.[2] to local_3.[2]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.[3] to local_3.[3]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.[3] to local_3.[3]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.[4] to local_3.[4]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.[4] to local_3.[4]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_4.0.0 to local_3.0.0
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_4.0.0 to local_3.0.0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_3.1=5; local_3.[0]=1; local_3.[1]=2; local_3.[2]=3; local_3.[3]=4; local_3.[4]=5}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_3.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign((_2, move _3 as std::boxed::Box<[i32]> (Pointer(Unsize)))) statement: _2 = move _3 as std::boxed::Box<[i32]> (Pointer(Unsize))
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_2
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: Cast(Pointer(Unsize), move _3, std::boxed::Box<[i32]>)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_3, result type: std::boxed::Box<[i32; 5]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: TOP
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > result: None
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: local_3: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get move RPath=local_3
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In copy or move elements, target_path=local_2, source_path=local_3
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_3, result type: std::boxed::Box<[i32; 5]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: TOP
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > result: None
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: local_3: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > After lookup_path_and_refine_result: local_3: NonPrimitive, value type: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.1 to local_2.1
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.1 to local_2.1
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.[0] to local_2.[0]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.[0] to local_2.[0]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.[1] to local_2.[1]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.[1] to local_2.[1]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.[2] to local_2.[2]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.[2] to local_2.[2]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.[3] to local_2.[3]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.[3] to local_2.[3]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.[4] to local_2.[4]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.[4] to local_2.[4]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_3.0.0 to local_2.0.0
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_3.0.0 to local_2.0.0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_2.1=5; local_2.[0]=1; local_2.[1]=2; local_2.[2]=3; local_2.[3]=4; local_2.[4]=5}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_2.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting terminator: Terminator { source_info: SourceInfo { span: /rustc/73422130ee96c09e7214c876a3600ac1f32aa8c8/library/alloc/src/macros.rs:49:36: 49:66 (#9), scope: scope[0] }, kind: _1 = std::slice::<impl [i32]>::into_vec::<std::alloc::Global>(move _2) -> bb1 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > function operand: std::slice::<impl [i32]>::into_vec::<std::alloc::Global>, arguments: [move _2]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > self.generic_argument_map None
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Before visit_call, env: numerical: {local_2.1=5; local_2.[0]=1; local_2.[1]=2; local_2.[2]=3; local_2.[3]=4; local_2.[4]=5}, symbolic: {local_2.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::memory::known_names          > TEST: DefPath { data: [DisambiguatedDefPathData { data: TypeNs("slice"), disambiguator: 0 }, DisambiguatedDefPathData { data: Impl, disambiguator: 0 }, DisambiguatedDefPathData { data: ValueNs("into_vec"), disambiguator: 0 }], krate: crate5 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_2, result type: std::boxed::Box<[i32]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: TOP
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > result: None
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: local_2: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > actual_args: [(local_2, local_2: NonPrimitive)]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > actual_argument_types: [std::boxed::Box<[i32]>]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > destination: Some(local_1)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > callee_fun_val: fn alloc.slice.implement.into_vec<[I32, NonPrimitive]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Calling function Some(FunctionReference { def_id: Some(DefId(5:5136 ~ alloc[9a4b]::slice::{impl#0}::into_vec)), function_id: Some(0), generic_arguments: [I32, NonPrimitive], known_name: StdIntoVec, function_name: "alloc.slice.implement.into_vec" })
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In copy or move elements, target_path=local_1, source_path=local_2
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_2, result type: std::boxed::Box<[i32]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: TOP
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > result: None
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: local_2: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > After lookup_path_and_refine_result: local_2: NonPrimitive, value type: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.1 to local_1.1
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.1 to local_1.1
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.[0] to local_1.[0]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.[0] to local_1.[0]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.[1] to local_1.[1]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.[1] to local_1.[1]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.[2] to local_1.[2]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.[2] to local_1.[2]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.[3] to local_1.[3]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.[3] to local_1.[3]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.[4] to local_1.[4]
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.[4] to local_1.[4]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Moving child local_2.0.0 to local_1.0.0
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Renaming local_2.0.0 to local_1.0.0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Successfully handled as special function call
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting terminator:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_1.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Finish analyzing basic block: bb0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Post-Condition for bb0: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_1.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Exit condition bb0: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Start merging state from predecessors
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Get state from bb0: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_1.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Merged state: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_1.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Analyzing basic block: bb1
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Pre-Condition for bb1: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_1.0.0: heap_0}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign((_9, &_1)) statement: _9 = &_1
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_9
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: Ref/AddressOf(_1)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In handling `path = &place`, get path of place=local_1
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_address_of, updating value at path=local_9, value=&(local_1)
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_9, value: &(local_1)
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is not numerical, store in symbolic domain
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting terminator: Terminator { source_info: SourceInfo { span: src/main.rs:11:13: 11:18 (#0), scope: scope[1] }, kind: _8 = <std::vec::Vec<i32> as std::ops::Index<usize>>::index(move _9, const 3_usize) -> bb2 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > function operand: <std::vec::Vec<i32> as std::ops::Index<usize>>::index, arguments: [move _9, const 3_usize]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > self.generic_argument_map None
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Before visit_call, env: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::memory::known_names          > TEST: DefPath { data: [DisambiguatedDefPathData { data: TypeNs("ops"), disambiguator: 0 }, DisambiguatedDefPathData { data: TypeNs("index"), disambiguator: 0 }, DisambiguatedDefPathData { data: TypeNs("Index"), disambiguator: 0 }, DisambiguatedDefPathData { data: ValueNs("index"), disambiguator: 0 }], krate: crate2 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_9, result type: &std::vec::Vec<i32>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: &(local_1)
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: &(local_1)
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: &(local_1)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > actual_args: [(local_9, &(local_1)), (alias_3, 3)]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > actual_argument_types: [&std::vec::Vec<i32>, usize]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > destination: Some(local_8)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > callee_fun_val: fn core.ops.index.Index.index<[NonPrimitive, Usize]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Calling function Some(FunctionReference { def_id: Some(DefId(2:3288 ~ core[cc79]::ops::index::Index::index)), function_id: Some(1), generic_arguments: [NonPrimitive, Usize], known_name: CoreOpsIndex, function_name: "core.ops.index.Index.index" })
+ DEBUG rust_mir_checker::checker::assertion_checker             > In converting assertion condition: (3) < (local_1.1: Usize)
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_8, value: &(local_1.[3])
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is not numerical, store in symbolic domain
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Successfully handled as special function call
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting terminator:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Finish analyzing basic block: bb1
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Post-Condition for bb1: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Exit condition bb1: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Start merging state from predecessors
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Get state from bb1: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Merged state: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Analyzing basic block: bb2
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Pre-Condition for bb2: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign((_7, (*_8))) statement: _7 = (*_8)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_7
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: Use((*_8))
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get copy RPath=local_1.[3]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In copy or move elements, target_path=local_7, source_path=local_1.[3]
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_1.[3], result type: i32
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > After lookup_path_and_refine_result: 4, value type: I128
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_1.[3], result type: i32
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > copying 4 to local_7
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_7, value: 4
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting a Assign((_6, Eq(move _7, const 4_i32))) statement: _6 = Eq(move _7, const 4_i32)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Current tainted variables: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get LHS Path: local_6
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Get RHS Rvalue: BinaryOp(Eq, move _7, const 4_i32)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_7, result type: i32
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: 4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Comparison result: 1
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Updating value at local_6, value: 1
+ DEBUG rust_mir_checker::analysis::abstract_domain              > Value is constant integer, store in numerical domain
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting statement:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting terminator: Terminator { source_info: SourceInfo { span: /home/rust-mir-checker/macros/src/lib.rs:5:13: 5:51 (#10), scope: scope[1] }, kind: _5 = macros::mir_checker_verify(move _6) -> bb3 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > function operand: macros::mir_checker_verify, arguments: [move _6]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > self.generic_argument_map None
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Before visit_call, env: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::memory::known_names          > TEST: DefPath { data: [DisambiguatedDefPathData { data: ValueNs("mir_checker_verify"), disambiguator: 0 }], krate: crate20 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_6, result type: bool
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 1
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: 1
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: 1
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > actual_args: [(local_6, 1)]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > actual_argument_types: [bool]
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > destination: Some(local_5)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > callee_fun_val: fn macros.mir_checker_verify<[]>
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Calling function Some(FunctionReference { def_id: Some(DefId(20:4 ~ macros[132e]::mir_checker_verify)), function_id: Some(2), generic_arguments: [], known_name: MirCheckerVerify, function_name: "macros.mir_checker_verify" })
+ DEBUG rust_mir_checker::analysis::mir_visitor::call_visitor    > Handling special function MirCheckerVerify
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Successfully handled as special function call
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting terminator:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Finish analyzing basic block: bb2
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Post-Condition for bb2: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Exit condition bb2: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Start merging state from predecessors
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Get state from bb2: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Merged state: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Analyzing basic block: bb3
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Pre-Condition for bb3: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting terminator: Terminator { source_info: SourceInfo { span: src/main.rs:12:1: 12:2 (#0), scope: scope[0] }, kind: drop(_1) -> bb4 }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > In visit_place, current offset: 0
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > lookup_path_and_refine_result: local_1, result type: std::vec::Vec<i32>
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > refined_val: TOP
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > result: None
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Result: local_1: NonPrimitive
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting Drop: path: local_1, value: local_1: NonPrimitive, related_heaps: Some(heap_0)
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting terminator:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Finish analyzing basic block: bb3
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Post-Condition for bb3: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Exit condition bb3: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Start merging state from predecessors
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Get state from bb3: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Merged state: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Analyzing basic block: bb4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Pre-Condition for bb4: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting terminator: Terminator { source_info: SourceInfo { span: src/main.rs:12:2: 12:2 (#0), scope: scope[0] }, kind: return }
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Visiting return at block: bb4
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > State after visiting terminator:
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > Symbolic:  {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::block_visitor   > ------------------------------------------------------
+
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Finish analyzing basic block: bb4
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Post-Condition for bb4: numerical: {local_1.1=5; local_1.[0]=1; local_1.[1]=2; local_1.[2]=3; local_1.[3]=4; local_1.[4]=5; local_7=4; local_6=1}, symbolic: {local_8: &(local_1.[3]), local_1.0.0: heap_0, local_9: &(local_1)}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > Exit condition bb4: {}
+ DEBUG rust_mir_checker::analysis::mir_visitor::body_visitor    > ###########################################################################
+
+ INFO  rust_mir_checker::checker::assertion_checker             > ====== Assertion Checker starts ======
+ INFO  rust_mir_checker::checker::assertion_checker             > ====== Assertion Checker ends ======
+ DEBUG rust_mir_checker::analysis::analyzer::numerical_analysis > 0 diagnositcs for function "main"
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > ================== Fixed-Point Algorithm Ends ==================
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > ================== Numerical Analysis Ends ==================
+ INFO  rust_mir_checker::analysis::analyzer::numerical_analysis > ================== Start To Output Diagnostics ==================
+ INFO  rust_mir_checker::analysis::callback                     > Numerical Analysis Completed: 36 ms
+    Finished dev [unoptimized + debuginfo] target(s) in 0.42s
