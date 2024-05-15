@@ -1714,10 +1714,10 @@ where
             mir::Rvalue::ThreadLocalRef(def_id) => {
                 self.visit_thread_local_ref(*def_id);
             }
-            /*
+
             mir::Rvalue::ShallowInitBox(_, _) => {
             }
-            */
+            
         }
     }
 
