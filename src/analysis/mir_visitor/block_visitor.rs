@@ -134,7 +134,7 @@ where
             kind,
             mir::StatementKind::Assign(..)
                 | mir::StatementKind::SetDiscriminant { .. }
-                | mir::StatementKind::LlvmInlineAsm(..)
+            //    | mir::StatementKind::LlvmInlineAsm(..)
         ) {
             self.body_visitor.current_span = source_info.span;
         }
@@ -146,7 +146,7 @@ where
                 place,
                 variant_index,
             } => self.visit_set_discriminant(place, *variant_index),
-            mir::StatementKind::LlvmInlineAsm(..) => self.visit_inline_asm(),
+            //mir::StatementKind::LlvmInlineAsm(..) => self.visit_inline_asm(),
             mir::StatementKind::StorageDead(local) => self.visit_storage_dead(*local),
 
             // The rest are ignored
@@ -622,7 +622,7 @@ where
     // TODO: implement promoted constant
     fn visit_const_kind(&mut self, mut val: ConstKind<'tcx>, ty: Ty<'tcx>) -> Rc<SymbolicValue> {
         if let rustc_middle::ty::ConstKind::Unevaluated(unevaluated) = &val {
-            let substs = unevaluated.substs(self.body_visitor.context.tcx);
+            //let substs = unevaluated.substs(self.body_visitor.context.tcx);
             let def_ty = unevaluated.def;
             if def_ty.const_param_did.is_some() {
                 val = val.eval(self.body_visitor.context.tcx, self.body_visitor.type_visitor.get_param_env());
@@ -630,7 +630,7 @@ where
                 let def_id = def_ty.def_id_for_type_of();
                 let substs = self.body_visitor
                     .type_visitor
-                    .specialize_substs(substs, &self.body_visitor.type_visitor.generic_argument_map);
+                    .specialize_substs(unevaluated.substs, &self.body_visitor.type_visitor.generic_argument_map);
                 self.body_visitor.crate_context.substs_cache.insert(def_id, substs);
                 let path: Rc<Path> = match unevaluated.promoted {
                 Some(promoted) => {
