@@ -113,6 +113,7 @@ where
     fn visit_statement(&mut self, statement: &mir::Statement<'tcx>) {
         let mir::Statement { kind, source_info } = statement;
         // Ignore the following to reduce logging
+        // TODO: why StorageLive is here?
         if matches!(
             kind,
             mir::StatementKind::FakeRead(..)
@@ -304,6 +305,7 @@ where
     // The result is a list of `Local` because a `Rvalue` may associate multiple `Local`s
     fn extract_local_from_rvalue(&self, rvalue: &mir::Rvalue<'tcx>) -> Option<Vec<mir::Local>> {
         use mir::Rvalue::*;
+        debug!("rvalue: {:#?}",rvalue);
         match rvalue {
             Use(operand) | Repeat(operand, _) | Cast(_, operand, _) | UnaryOp(_, operand) => {
                 self.extract_local_from_operand(operand)
@@ -379,6 +381,7 @@ where
             "In visit_place, current offset: {}",
             self.body_visitor.fresh_variable_offset
         );
+        debug!("place: {:#?}",place);
         let place_path = self.get_path_for_place(place);
         let mut path = place_path.refine_paths(&self.state());
         match &path.value {
@@ -1712,12 +1715,17 @@ where
                 self.visit_aggregate(path, aggregate_kinds, operands);
             }
             mir::Rvalue::ThreadLocalRef(def_id) => {
+                debug!(
+                    "Get RHS Rvalue: ThreadLocalRef({:?})", *def_id
+                );
                 self.visit_thread_local_ref(*def_id);
             }
-
-            mir::Rvalue::ShallowInitBox(_, _) => {
+            mir::Rvalue::ShallowInitBox(operand, ty) => {
+                debug!(
+                    "Get RHS Rvalue: ShallowInitBox({:?}, {:?}, {:?})", path, operand, ty
+                );
+                self.visit_shallow_init_box(path, operand, ty);
             }
-            
         }
     }
 
@@ -1754,7 +1762,6 @@ where
     /// This is different from a normal transmute because dataflow analysis will treat the box
     /// as initialized but its content as uninitialized.
     /// 
-    /*
     fn visit_shallow_init_box(
         &mut self,
         path: Rc<Path>,
@@ -1763,8 +1770,7 @@ where
     ) {
         let value_path = Path::new_field(Path::new_field(path, 0), 0);
         self.visit_used_operand(value_path, operand);
-    } 
-    */
+    }
 
     fn visit_used_operand(&mut self, target_path: Rc<Path>, operand: &mir::Operand<'tcx>) {
         match operand {
@@ -1790,6 +1796,7 @@ where
         ty: rustc_middle::ty::Ty<'tcx>,
     ) {
         let param_env = self.body_visitor.type_visitor.get_param_env();
+        debug!("param_env: {:#?}",param_env);
         let len =
             // Get the layout of the type
             if let Ok(ty_and_layout) = self.body_visitor.context.tcx.layout_of(param_env.and(ty)) {

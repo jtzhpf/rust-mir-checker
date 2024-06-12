@@ -6,17 +6,17 @@
             "type": "lldb",
             "request": "launch",
             "name": "cargo debug",
-            "args": ["check","--bin","alloc-test"], // array of string command-line arguments to pass to compiler
+            "args": ["check","--bin","out-of-bound-index"], // array of string command-line arguments to pass to compiler
             "program": "/root/.cargo/bin/cargo",
-            "cwd": "${workspaceFolder}/tests/unit-tests/alloc-test", // current working directory at program start
+            "cwd": "${workspaceFolder}/tests/safe-bugs/out-of-bound-index", // current working directory at program start
             "stopOnEntry": false,
             "sourceLanguages": [
                 "rust"
             ],
             "env": {
-                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/nightly-2021-09-25-x86_64-unknown-linux-gnu/lib:$LD_LIBRARY_PATH",
+                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/custom/lib:$LD_LIBRARY_PATH",
                 "MIR_CHECKER_ARGS":"--domain interval --entry main --widening_delay 5 --narrowing_iteration 5 --deny_warnings",
-                "MIR_CHECKER_TOP_CRATE_NAME":"alloc-test",
+                "MIR_CHECKER_TOP_CRATE_NAME":"out-of-bound-index",
                 "RUSTC_WRAPPER":"/home/rust-mir-checker/target/debug/cargo-mir-checker"
             },
         },
@@ -26,13 +26,13 @@
             "name": "debug cargo-mir-checker",
             "args": ["mir-checker","--","--domain","interval","--entry","main","--widening_delay","5","--narrowing_iteration","5","--deny_warnings"], // array of string command-line arguments to pass to compiler
             "program": "${workspaceFolder}/target/debug/cargo-mir-checker",
-            "cwd": "${workspaceFolder}/tests/unit-tests/alloc-test", // current working directory at program start
+            "cwd": "${workspaceFolder}/tests/safe-bugs/out-of-bound-index", // current working directory at program start
             "stopOnEntry": false,
             "sourceLanguages": [
                 "rust"
             ],
             "env": {
-                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/nightly-2021-09-25-x86_64-unknown-linux-gnu/lib:$LD_LIBRARY_PATH",
+                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/custom/lib:$LD_LIBRARY_PATH",
             },
         },
         {
@@ -47,7 +47,8 @@
                 "rust"
             ],
             "env": {
-                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/nightly-2021-09-26-x86_64-unknown-linux-gnu/lib:$LD_LIBRARY_PATH",
+                "LD_LIBRARY_PATH": "/root/.rustup/toolchains/custom2/lib:$LD_LIBRARY_PATH",
+                "RUST_LOG": "debug"
             },
         }
     ]

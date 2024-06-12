@@ -12,6 +12,12 @@ pub enum Bound {
     NINF,         // Negative infinity
 }
 
+pub enum Sign {
+    POSITIVE,
+    NEGATIVE,
+    ZERO,
+}
+
 use Bound::*;
 
 impl Bound {
@@ -74,7 +80,7 @@ impl Add for Bound {
 
     fn add(self, other: Self) -> Self {
         match (self, other) {
-            // FIXME Here, `INF + NINF` = INF, does it matter?
+            // FIXME: Here, `INF + NINF` = INF, does it matter?
             (INF, _) | (_, INF) => Self::INF,
             (NINF, _) | (_, NINF) => Self::NINF,
             (Int(a), Int(b)) => Self::Int(a + b),
@@ -87,7 +93,7 @@ impl Sub for Bound {
 
     fn sub(self, other: Self) -> Self {
         match (self, other) {
-            // FIXME Here `INF - INF = INF`, `NINF - NINF = INF`, does it matter?
+            // FIXME: Here `INF - INF = INF`, `NINF - NINF = INF`, does it matter?
             (INF, _) | (_, NINF) => Self::INF,
             (NINF, _) | (_, INF) => Self::NINF,
             (Int(a), Int(b)) => Self::Int(a - b),
@@ -99,12 +105,6 @@ impl Mul for Bound {
     type Output = Self;
 
     fn mul(self, rhs: Self) -> Self {
-        enum Sign {
-            POSITIVE,
-            NEGATIVE,
-            ZERO,
-        }
-
         use Sign::*;
 
         let sign_lhs = match self {
@@ -141,12 +141,6 @@ impl Div for Bound {
     type Output = Self;
 
     fn div(self, rhs: Self) -> Self {
-        enum Sign {
-            POSITIVE,
-            NEGATIVE,
-            ZERO,
-        }
-
         use Sign::*;
 
         let sign_lhs = match self {
@@ -206,7 +200,7 @@ impl Interval {
     const NINF: Bound = Bound::NINF;
 
     pub fn new(low: Bound, high: Bound) -> Self {
-        Interval { high, low }
+        Interval { high: high, low: low }
     }
 
     pub fn top() -> Self {
@@ -231,6 +225,7 @@ impl Interval {
         self.high < self.low
     }
 
+    // FIXME: When will use this? What's the purpose of these code?
     pub fn less_than(&self, other: &Interval) -> Option<bool> {
         if self.is_bottom() || self.is_top() || other.is_bottom() || other.is_top() {
             None
@@ -296,6 +291,7 @@ impl Interval {
         }
         None
     }
+    // until here
 
     fn is_zero(&self) -> bool {
         self.low == Bound::Int(Integer::from(0)) && self.high == Bound::Int(Integer::from(0))
@@ -318,6 +314,7 @@ impl TryFrom<Interval> for Integer {
     }
 }
 
+// FIXME: Never used code
 impl TryFrom<&Interval> for Integer {
     type Error = &'static str;
     fn try_from(value: &Interval) -> Result<Self, Self::Error> {
@@ -344,6 +341,7 @@ impl TryFrom<Interval> for bool {
         }
     }
 }
+// until here
 
 impl From<bool> for Interval {
     fn from(b: bool) -> Self {
@@ -360,6 +358,7 @@ impl From<bool> for Interval {
     }
 }
 
+// FIXME: unused code
 impl Add for Interval {
     type Output = Interval;
 
@@ -415,6 +414,7 @@ impl Div for Interval {
         Interval::new(low, high)
     }
 }
+// until here
 
 impl BitAnd for Interval {
     type Output = Self;
@@ -537,5 +537,141 @@ mod tests {
         let c = Bound::from(1 as i128);
         let inf = Bound::INF;
         assert!(ninf < a && a < b && b < c && c < inf);
+    }
+
+    #[test]
+    fn test_is_finite() {
+        let inf = Bound::INF;
+        let ninf = Bound::NINF;
+        let int = Bound::from(42i128);
+
+        assert!(!inf.is_finite());
+        assert!(!ninf.is_finite());
+        assert!(int.is_finite());
+    }
+
+    #[test]
+    fn test_debug_fmt() {
+        let inf = Bound::INF;
+        let ninf = Bound::NINF;
+        let int = Bound::from(42i128);
+    
+        assert_eq!(format!("{:?}", inf), "∞");
+        assert_eq!(format!("{:?}", ninf), "-∞");
+        assert_eq!(format!("{:?}", int), "42");
+    }
+
+    #[test]
+    fn test_from() {
+        let int_bound = Bound::from(42i128);
+        assert_eq!(int_bound, Bound::Int(Integer::from(42)));
+
+        let i128_bound = Bound::from(-9223372036854775808i128);
+        assert_eq!(i128_bound, Bound::Int(Integer::from(-9223372036854775808i128)));
+
+        let u128_bound = Bound::from(18446744073709551615u128);
+        assert_eq!(u128_bound, Bound::Int(Integer::from(18446744073709551615u128)));
+    }
+
+    #[test]
+    fn test_bound_addition() {
+        let ninf = Bound::NINF;
+        let a = Bound::from(-1i128);
+        let b = Bound::from(0i128);
+        let c = Bound::from(1i128);
+        let inf = Bound::INF;
+        assert_eq!(ninf.clone() + ninf.clone(), ninf);
+        assert_eq!(ninf.clone() + a.clone(), ninf);
+        assert_eq!(ninf.clone() + b.clone(), ninf);
+        assert_eq!(ninf.clone() + c.clone(), ninf);
+        assert_eq!(ninf.clone() + inf.clone(), inf);
+        assert_eq!(a.clone() + ninf.clone(), ninf);
+        assert_eq!(a.clone() + a.clone(), Bound::from(-2i128));
+        assert_eq!(a.clone() + b.clone(), Bound::from(-1i128));
+        assert_eq!(a.clone() + c.clone(), Bound::from(0i128));
+        assert_eq!(a.clone() + inf.clone(), inf);
+        assert_eq!(b.clone() + ninf.clone(), ninf);
+        assert_eq!(b.clone() + a.clone(), Bound::from(-1i128));
+        assert_eq!(b.clone() + b.clone(), b);
+        assert_eq!(b.clone() + c.clone(), Bound::from(1i128));
+        assert_eq!(b.clone() + inf.clone(), inf);
+        assert_eq!(c.clone() + ninf.clone(), ninf);
+        assert_eq!(c.clone() + a.clone(), Bound::from(0i128));
+        assert_eq!(c.clone() + b.clone(), Bound::from(1i128));
+        assert_eq!(c.clone() + c.clone(), Bound::from(2i128));
+        assert_eq!(c.clone() + inf.clone(), inf);
+        assert_eq!(inf.clone() + ninf.clone(), inf);
+        assert_eq!(inf.clone() + a.clone(), inf);
+        assert_eq!(inf.clone() + b.clone(), inf);
+        assert_eq!(inf.clone() + c.clone(), inf);
+        assert_eq!(inf.clone() + inf.clone(), inf);
+    }
+
+    #[test]
+    fn test_bound_subtraction() {
+        let ninf = Bound::NINF;
+        let a = Bound::from(-1i128);
+        let b = Bound::from(0i128);
+        let c = Bound::from(1i128);
+        let inf = Bound::INF;
+        assert_eq!(ninf.clone() - ninf.clone(), inf);
+        assert_eq!(ninf.clone() - a.clone(), ninf);
+        assert_eq!(ninf.clone() - b.clone(), ninf);
+        assert_eq!(ninf.clone() - c.clone(), ninf);
+        assert_eq!(ninf.clone() - inf.clone(), ninf);
+        assert_eq!(a.clone() - ninf.clone(), inf);
+        assert_eq!(a.clone() - a.clone(), b);
+        assert_eq!(a.clone() - b.clone(), a);
+        assert_eq!(a.clone() - c.clone(), Bound::from(-2i128));
+        assert_eq!(a.clone() - inf.clone(), ninf);
+        assert_eq!(b.clone() - ninf.clone(), inf);
+        assert_eq!(b.clone() - a.clone(), Bound::from(1i128));
+        assert_eq!(b.clone() - b.clone(), b);
+        assert_eq!(b.clone() - c.clone(), Bound::from(-1i128));
+        assert_eq!(b.clone() - inf.clone(), ninf);
+        assert_eq!(c.clone() - ninf.clone(), inf);
+        assert_eq!(c.clone() - a.clone(), Bound::from(2i128));
+        assert_eq!(c.clone() - b.clone(), Bound::from(1i128));
+        assert_eq!(c.clone() - c.clone(), b);
+        assert_eq!(c.clone() - inf.clone(), ninf);
+        assert_eq!(inf.clone() - ninf.clone(), inf);
+        assert_eq!(inf.clone() - a.clone(), inf);
+        assert_eq!(inf.clone() - b.clone(), inf);
+        assert_eq!(inf.clone() - c.clone(), inf);
+        assert_eq!(inf.clone() - inf.clone(), inf);
+    }
+
+    #[test]
+    fn test_bound_multiplication() {
+        let ninf = Bound::NINF;
+        let a = Bound::from(-1i128);
+        let b = Bound::from(0i128);
+        let c = Bound::from(1i128);
+        let inf = Bound::INF;
+        assert_eq!(ninf.clone() * ninf.clone(), inf);
+        assert_eq!(ninf.clone() * a.clone(), inf);
+        assert_eq!(ninf.clone() * b.clone(), b);
+        assert_eq!(ninf.clone() * c.clone(), ninf);
+        assert_eq!(ninf.clone() * inf.clone(), ninf);
+        assert_eq!(a.clone() * ninf.clone(), inf);
+        assert_eq!(a.clone() * a.clone(), Bound::from(1i128));
+        assert_eq!(a.clone() * b.clone(), b);
+        assert_eq!(a.clone() * c.clone(), Bound::from(-1i128));
+        assert_eq!(a.clone() * inf.clone(), ninf);
+        assert_eq!(b.clone() * ninf.clone(), b);
+        assert_eq!(b.clone() * a.clone(), b);
+        assert_eq!(b.clone() * b.clone(), b);
+        assert_eq!(b.clone() * c.clone(), b);
+        assert_eq!(b.clone() * inf.clone(), b);
+        assert_eq!(c.clone() * ninf.clone(), ninf);
+        assert_eq!(c.clone() * a.clone(), Bound::from(-1i128));
+        assert_eq!(c.clone() * b.clone(), b);
+        assert_eq!(c.clone() * c.clone(), Bound::from(1i128));
+        assert_eq!(c.clone() * inf.clone(), inf);
+        assert_eq!(inf.clone() * ninf.clone(), ninf);
+        assert_eq!(inf.clone() * a.clone(), ninf);
+        assert_eq!(inf.clone() * b.clone(), b);
+        assert_eq!(inf.clone() * c.clone(), inf);
+        assert_eq!(inf.clone() * inf.clone(), inf);
     }
 }

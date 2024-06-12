@@ -29,6 +29,7 @@ pub struct CrateContext<'compiler, 'tcx> {
     /// Caches the name of each function in the current crate
     pub function_name_cache: HashMap<DefId, String>,
 
+    /// TODO: Unknown uages
     pub known_names_cache: KnownNamesCache,
 
     pub substs_cache: HashMap<DefId, SubstsRef<'tcx>>,

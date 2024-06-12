@@ -36,67 +36,67 @@ where
     DomainType: ApronDomainType,
     ApronAbstractDomain<DomainType>: GetManagerTrait,
 {
-    // Global context
+    /// Global context
     pub context: &'a mut GlobalContext<'tcx, 'compiler>,
 
-    // The current function's DefId
+    /// The current function's DefId
     pub def_id: DefId,
 
-    // The current function's w.t.o
+    /// The current function's w.t.o
     pub wto: Wto<'tcx>,
 
-    // Current span
+    /// Current span
     pub current_span: Span,
 
-    // Current location
+    /// Current location
     pub current_location: mir::Location,
 
-    // The initial state for the fixed-point algorithm
+    /// The initial state for the fixed-point algorithm
     pub init_state: AbstractDomain<DomainType>,
 
-    // Current abstract state
+    /// Current abstract state
     pub state: AbstractDomain<DomainType>,
 
-    // The post-condition for each basic block
+    /// The post-condition for each basic block
     pub post: HashMap<mir::BasicBlock, AbstractDomain<DomainType>>,
 
-    // There may be multiple return statements, record them so we can compute the union of the return values
+    /// There may be multiple return statements, record them so we can compute the union of the return values
     pub result_blocks: HashSet<mir::BasicBlock>,
 
-    // Helper struct to get information in Rust's type system
+    /// Helper struct to get information in Rust's type system
     pub type_visitor: TypeVisitor<'tcx>,
 
-    // Helper struct to store information about the current crate
+    /// Helper struct to store information about the current crate
     pub crate_context: CrateContext<'compiler, 'tcx>,
 
-    // For each heap allocation site, we maintain an address
-    // Caveat: we assume each location only allocates once
+    /// For each heap allocation site, we maintain an address
+    /// caveat: we assume each location only allocates once
     pub heap_addresses: HashMap<mir::Location, Rc<SymbolicValue>>,
 
-    // Stores the tainted local variables when detecting ownership corruption
-    // Variables in this set potentially acquire ownership from other allocated memory
-    // So keep track of them and check whether they eventually go to terminators like `Return` or `Drop`
-    // If so, then mutable shared memory are created or potential use-after-free / double-free are detected
-    // We only consider `mir::Local` instead of `mir::Place` for robustness
+    /// Stores the tainted local variables when detecting ownership corruption
+    /// variables in this set potentially acquire ownership from other allocated memory.
+    /// So keep track of them and check whether they eventually go to terminators like `Return` or `Drop`.
+    /// If so, then mutable shared memory are created or potential use-after-free / double-free are detected.
+    /// We only consider `mir::Local` instead of `mir::Place` for robustness
     pub tainted_variables: HashSet<mir::Local>,
 
-    // `Place` to `SymbolicValue` Cache, used to extract conditions when analyzing assertions
+    /// `Place` to `SymbolicValue` Cache, used to extract conditions when analyzing assertions
     pub place_to_abstract_value: HashMap<mir::Place<'tcx>, Rc<SymbolicValue>>,
 
-    // The start index of variables. Because functions may return values that contain local variables, so we
-    // increase the index offsets so that returned variables can be distinguished from normal local variables
+    /// The start index of variables. Because functions may return values that contain local variables, so we
+    /// increase the index offsets so that returned variables can be distinguished from normal local variables
     pub fresh_variable_offset: usize,
 
-    // The fresh variable offset used for the next call
+    /// The fresh variable offset used for the next call
     pub next_fresh_variable_offset: usize,
 
-    // The call stack, used to detect recursive calls
+    /// The call stack, used to detect recursive calls
     pub call_stack: Vec<DefId>,
 
-    // The Z3 SMT solver
+    /// The Z3 SMT solver
     pub z3_solver: Z3Solver,
 
-    // Buffered diagnostics
+    /// Buffered diagnostics
     pub buffered_diagnostics: Vec<Diagnostic<'compiler>>,
 }
 

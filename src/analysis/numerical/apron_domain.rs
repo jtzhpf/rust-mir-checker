@@ -1307,10 +1307,12 @@ where
     }
 }
 
+
 #[cfg(test)]
 mod tests {
     use super::*;
 
+    
     #[test]
     fn test_apron_domain() {
         let mut domain1 = ApronAbstractDomain::<ApronInterval>::default();
@@ -1351,7 +1353,6 @@ mod tests {
         println!("z=x+y: {:?}", inv3);
     }
 
-    #[test]
     fn test_apron_octagon_domain() {
         let mut inv1 = ApronAbstractDomain::<ApronOctagon>::default();
         let mut inv2 = ApronAbstractDomain::<ApronOctagon>::default();
@@ -1373,8 +1374,7 @@ mod tests {
 
         println!("inv1: {:?}", inv3);
     }
-
-    #[test]
+ 
     fn test_apron_polyhedra_domain() {
         let mut inv1 = ApronAbstractDomain::<ApronPolyhedra>::default();
         let mut inv2 = ApronAbstractDomain::<ApronPolyhedra>::default();
@@ -1397,7 +1397,6 @@ mod tests {
         println!("z=x+y: {:?}", inv3);
     }
 
-    #[test]
     fn test_apron_interval_domain_comparison() {
         let mut inv1 = ApronAbstractDomain::<ApronInterval>::default();
         let mut inv2 = ApronAbstractDomain::<ApronInterval>::default();

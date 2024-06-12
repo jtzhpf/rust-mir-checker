@@ -1,4 +1,5 @@
 {
     "rust-analyzer.rustc.source": "discover",
     "rust-analyzer.workspace.symbol.search.scope": "workspace_and_dependencies",
+    "cody.chat.preInstruction": "请用中文回答我所有的问题。",
 }    
