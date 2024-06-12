@@ -1807,10 +1807,12 @@ where
         let alignment = Rc::new(1u128.into());
         let value = match null_op {
             mir::NullOp::AlignOf => alignment,
+            /* 
             mir::NullOp::Box => {
                 path = Path::new_field(Path::new_field(path, 0), 0);
                 self.body_visitor.get_new_heap_block(len, alignment, ty)
             }
+            */
             mir::NullOp::SizeOf => len,
         };
         self.body_visitor.state.update_value_at(path, value);
